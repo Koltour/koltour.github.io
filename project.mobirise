@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "3.11.1",
     "mcShopcart": {
       "email": "kooltaip@gmail.com",
@@ -95,7 +95,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x11254.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -266,17 +266,17 @@
           "_name": "header2",
           "_styles": {
             "H1": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "header2-g",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x14683.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x14685.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -294,6 +294,84 @@
           },
           "title": "Wingstravel",
           "text": "<br>A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-m",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x14685.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Wingstravel",
+          "text": "<br>A Wings Travel üzletpolitikája, hogy a <br>minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header2-n",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-young-woman-stands-in-a-field-of-ripe-wheat-2000x1466.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Wingstravel",
+          "text": "<br>A Wings Travel üzletpolitikája, hogy a <br>minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
         },
         {
