@@ -66,7 +66,7 @@
             "showArrow": true
           },
           "title": "Wingstravel",
-          "text": "A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "text": "Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a rugalmasságot. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"utazasok.html\" data-toolbar=\"-mbrBtnMove\">Utazások</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"outdoor.html\" data-toolbar=\"-mbrBtnMove\">Outdoor Team</a> ",
           "_styles": {
             "H1": {
@@ -95,7 +95,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x112514.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x112516.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -276,7 +276,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146815.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146817.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -293,7 +293,7 @@
             "showArrow": false
           },
           "title": "Wingstravel",
-          "text": "<br>A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "text": "<br>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a rugalmasságot. &nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
         },
         {
@@ -315,7 +315,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146815.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146817.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
