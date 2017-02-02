@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
@@ -38,7 +38,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -52,7 +52,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -65,14 +65,14 @@ h6,
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Ubuntu', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -418,7 +418,7 @@ h6,
 }
 .extCountdown1 .number,
 .extCountdown2 .number {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extCountdown1 .period,
 .extCountdown2 .period {
@@ -427,21 +427,21 @@ h6,
 }
 .extCountdown1 .dot,
 .extCountdown2 .dot {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .features6 .feature-subtitle {
   font-family: 'Ubuntu', sans-serif;
   font-style: normal;
 }
 .features6 .feature-title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .features6 .description {
   font-family: 'Droid Serif', serif;
 }
 .count,
 .counter-title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .counter-subtitle {
   font-family: 'Ubuntu', sans-serif;
@@ -462,7 +462,7 @@ h6,
 .extHeader12 .container h3,
 .extHeader13 .container h3,
 .extFeatures10 .container h3 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extHeader1 .container p,
 .extHeader2 .container p,
@@ -484,13 +484,13 @@ h6,
   font-style: normal;
 }
 .extHeader9 form p.form-subtitle {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extHeader11 .container span {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extHeader11 .container p.element {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extHeader11 .container p {
   font-family: 'Ubuntu', sans-serif;
@@ -498,7 +498,7 @@ h6,
 }
 .extHeader12 h4,
 .extFeatures10 h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extHeader12 .subtitle,
 .extFeatures10 .subtitle {
@@ -506,20 +506,20 @@ h6,
   font-style: normal;
 }
 .extHeader13 h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extHeader13 .number {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extHeader13 .period {
   font-family: 'Ubuntu', sans-serif;
   font-style: normal;
 }
 .extHeader13 .dot {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extFeatures .feature-title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extFeatures .feature-subtitle {
   font-family: 'Ubuntu', sans-serif;
@@ -529,7 +529,7 @@ h6,
   font-family: 'Droid Serif', serif;
 }
 .extFeatures2 h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extFeatures3 .border-wrap {
   border-color: #c0a375;
@@ -537,7 +537,7 @@ h6,
 .extFeatures4 h4,
 .extFeatures6 h4,
 .extFeatures5 .card-title h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extFeatures4 h5,
 .extFeatures6 h5,
@@ -549,7 +549,7 @@ h6,
 .extForm2 h4,
 .extForm3 h4,
 .extForm4 h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extForm1 .subtitle,
 .extForm2 .subtitle,
@@ -559,7 +559,7 @@ h6,
   font-style: normal;
 }
 .extForm2 .container h3 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extForm2 .container p {
   font-family: 'Ubuntu', sans-serif;
@@ -576,17 +576,17 @@ h6,
   background: #c0a375;
 }
 .extCounters2 h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extCounters2 h5 {
   font-family: 'Ubuntu', sans-serif;
   font-style: normal;
 }
 .extCounters3 .count {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extCounters3 .counter-title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extCounters3 .counter-subtitle {
   font-family: 'Ubuntu', sans-serif;
@@ -608,10 +608,10 @@ h6,
   font-style: normal;
 }
 .extProgressBarRound .progress-radial .overlay {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extProgressBar4 .feature-title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extProgressBar4 .feature-subtitle {
   font-family: 'Ubuntu', sans-serif;
@@ -656,14 +656,14 @@ h6,
   font-style: normal;
 }
 .extMsg-box1 .container h3 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extMsg-box1 .container p {
   font-family: 'Ubuntu', sans-serif;
   font-style: normal;
 }
 .extMsg-box1 h4 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extMsg-box1 .subtitle {
   font-family: 'Ubuntu', sans-serif;
@@ -672,7 +672,7 @@ h6,
 .extMsg-box2 .container span,
 .extMsg-box3 .container span,
 .extMsg-box4 .container span {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extMsg-box2 .container p,
 .extMsg-box3 .container p,
@@ -681,7 +681,7 @@ h6,
   font-style: normal;
 }
 .extProgressBarRound .pie_progress__number {
-  font-family: 'Merriweather', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .extMenu1 span.icon a:hover {
   color: #c0a375 !important;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "index.html",
+    "currentPage": "Rendezvény.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -12,7 +12,7 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Merriweather",
+        "titleFont": "Yanone Kaffeesatz",
         "subtitleFont": "Ubuntu",
         "textFont": "Droid Serif",
         "isRoundedButtons": false,
@@ -97,7 +97,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Wingstravel&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>&nbsp;",
           "text": "Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére. <br><br>Partnereink számára 1994. óta sikeresen szervezünk üzleti és incentive utakat, melyeket a megrendelő cég kívánságainak, igényeinek megfelelően, cégünkön belül, az e témában rendkívül tapasztalt részleg végzi. Útjaink színvonalát, szolgáltatásaink minőségét munkatársaink szakmai tudása és lelkiismeretes munkája biztosítja. <br><br>A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb. <br><br>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a rugalmasságot. <br><br>Elmondhatjuk magunkról, hogy a fenti filozófiánknak köszönhetően régi ügyfeleinkkel mind a mai napig sikeresen működünk együtt. Partnereink elsősorban olyan nemzetközi cégek, akik az incentive utakat és rendezvényeket motivációs eszközként, hatékonyan alkalmazzák vállalati stratégiájukban.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#extFeatures12-a\" data-toolbar=\"-mbrBtnMove\">Szolgáltatásaink</a>",
           "_styles": {
@@ -1800,7 +1800,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Wingstravel<br>Rendezvények és konferenciák",
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span><br><span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
           "text": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. <br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -1910,7 +1910,7 @@
             }
           },
           "number1": "01",
-          "title1": "Nyaralások",
+          "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1937,7 +1937,7 @@
             }
           },
           "number2": "02",
-          "title2": "Repülőjegy és szállásfoglalás",
+          "title2": "<span style=\"font-weight: normal;\">Repülőjegy</span> <span style=\"font-weight: normal;\">és</span> <span style=\"font-weight: normal;\">szállásfoglalás</span>",
           "subtitle2": "One of Bootstrap 4s big points",
           "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
