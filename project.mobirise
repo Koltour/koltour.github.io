@@ -95,7 +95,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x11254.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x11256.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -163,7 +163,7 @@
             "transparent": true,
             "color": "#fff",
             "collapsed": true,
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": false
           },
@@ -276,7 +276,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x14685.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x14687.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -315,7 +315,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x14685.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x14687.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -645,7 +645,7 @@
             "transparent": true,
             "color": "#fff",
             "collapsed": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false
           },
@@ -781,7 +781,7 @@
             "transparent": true,
             "color": "#fff",
             "collapsed": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false
           },
