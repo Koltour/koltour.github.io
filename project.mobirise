@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "Repülőjegy.html",
+    "currentPage": "Outdoor.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -642,7 +642,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Wingstravel<br>Nyaralások",
+          "title": "<span style=\"font-weight: normal;\">Wingstravel<br>Nyaralások</span>",
           "text": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! <br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Hogyan tesszük ezt?&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Másképp, mint konkurenseink!&nbsp;</span><br><br>Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit maximálisan figyelembe véve, testre szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk a legmegfelelőbb szállást, továbbá fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy utasaink elégedetten, tele élményekkel térjenek haza.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -2379,7 +2379,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Wingstravel<br>Outdoor",
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span><br><span style=\"font-weight: normal;\">Outdoor</span>",
           "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
