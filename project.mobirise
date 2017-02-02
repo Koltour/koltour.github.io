@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "Outdoor.html",
+    "currentPage": "Repülőjegy.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -789,7 +789,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7864.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7868.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -816,7 +816,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7885.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7889.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -843,7 +843,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7876.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78710.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -870,7 +870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x7877.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x78711.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1235,7 +1235,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/snowy-owl-l27-1-009-l-2000x1601.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1341,7 +1341,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7864.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7868.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -1368,7 +1368,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7885.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7889.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -1395,7 +1395,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7876.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78710.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1422,7 +1422,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x7877.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x78711.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1893,7 +1893,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7864.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7868.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -1920,7 +1920,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7885.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7889.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -1947,7 +1947,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7876.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78710.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1974,7 +1974,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x7877.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x78711.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2339,7 +2339,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/snowy-owl-l27-1-009-l-2000x1601.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2583,7 +2583,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7864.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7868.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -2610,7 +2610,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7885.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7889.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -2637,7 +2637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7876.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78710.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2664,7 +2664,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x7877.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x78711.jpg",
               "link": "",
               "alt": "",
               "title": "",
