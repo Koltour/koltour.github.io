@@ -1,5 +1,44 @@
+#header1-3 H1 {
+  color: #ffffff;
+}
+#header1-3 P {
+  color: #ffffff;
+}
+#header1-f H1 {
+  color: #ffffff;
+}
+#header1-f P {
+  color: #ffffff;
+}
 #menu-9 .navbar-toggler {
   color: #000;
+}
+#header2-e H1 {
+  color: #ffffff;
+}
+#header2-e P {
+  color: #ffffff;
+}
+#header2-g H1 {
+  color: #ffffff;
+}
+#header2-g P {
+  color: #ffffff;
+}
+#msg-box3-c .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-c .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#contacts1-k P {
+  color: #000000;
+}
+#contacts1-k UL {
+  color: #0275d8;
+}
+#contacts1-k STRONG {
+  color: #5cb85c;
 }
 #menu-9 .navbar-toggler {
   color: #000;

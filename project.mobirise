@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 10,
+    "uniqCompNum": 22,
     "versionPublish": "3.11.1",
     "mcShopcart": {
       "email": "kooltaip@gmail.com",
@@ -49,7 +49,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x1125.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -57,8 +57,8 @@
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -66,8 +66,84 @@
             "showArrow": true
           },
           "title": "Wingstravel",
-          "text": "A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb, számunkra minden utas VIP utas.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"utazasok.html\" data-toolbar=\"-mbrBtnMove\">Utazások</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"outdoor.html\" data-toolbar=\"-mbrBtnMove\">Outdoor Team</a> "
+          "text": "A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"utazasok.html\" data-toolbar=\"-mbrBtnMove\">Utazások</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"outdoor.html\" data-toolbar=\"-mbrBtnMove\">Outdoor Team</a> ",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x11250.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "Wingstravel",
+          "text": "A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"utazasok.html\" data-toolbar=\"-mbrBtnMove\">Utazások</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-secondary-outline\" href=\"outdoor.html\" data-toolbar=\"-mbrBtnMove\">Outdoor Team</a> "
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x1125.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Wingstravel",
+          "text": "A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>"
         },
         {
           "alias": "purity/components",
@@ -88,13 +164,13 @@
             "color": "#fff",
             "collapsed": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/hu-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wings-440x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -109,7 +185,330 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wingstravel</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"utazasok.html\">Utazás</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"outdoor.html\">Outdoor Team</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"utazasok.html\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"outdoor.html\"> Rendezvények és konferenciák</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"outdoor.html\"> Outdoor</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "Wingstravel",
+          "text": "A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-e",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x1468.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Wingstravel",
+          "text": "<br>A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header2-g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x14681.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Wingstravel",
+          "text": "<br>A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Wingstravel",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p>Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.&nbsp;</p><p>Partnereink számára 1994. óta sikeresen szervezünk üzleti és incentive utakat, melyeket a megrendelő cég kívánságainak, igényeinek megfelelően, cégünkön belül, az e témában rendkívül tapasztalt részleg végzi. Útjaink színvonalát, szolgáltatásaink minőségét munkatársaink szakmai tudása és lelkiismeretes munkája biztosítja.&nbsp;</p><p>A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;</p><p>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a rugalmasságot.&nbsp;</p><p>Elmondhatjuk magunkról, hogy a fenti filozófiánknak köszönhetően régi ügyfeleinkkel mind a mai napig sikeresen működünk együtt. Partnereink elsősorban olyan nemzetközi cégek, akik az incentive utakat és rendezvényeket motivációs eszközként, hatékonyan alkalmazzák vállalati stratégiájukban.&nbsp;</p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Szolgáltatásaink</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wings-265x76.png",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@wings.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><ul><li>Insentív</li><li>Outdoor</li><li>Repülőjegy</li></ul>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#0275d8"
+            },
+            "STRONG": {
+              "color": "#5cb85c"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@wings.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li>Insentív</li><li>Outdoor</li><li>Repülőjegy</li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@wings.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li>Insentív</li><li>Outdoor</li><li>Repülőjegy<br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "kooltaip@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#d9534f",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "counters": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Share This Page!"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 1994 Wingstravel. <a href=\"#top\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
       ]
     },
