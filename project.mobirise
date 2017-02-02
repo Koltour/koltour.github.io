@@ -789,7 +789,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7860.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7864.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -816,7 +816,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7881.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7885.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -843,7 +843,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7872.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7876.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -870,7 +870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x7873.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x7877.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1341,7 +1341,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7860.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7864.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -1368,7 +1368,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7881.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7885.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -1395,7 +1395,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7872.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7876.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1422,7 +1422,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x7873.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x7877.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1893,7 +1893,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7860.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7864.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -1920,7 +1920,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7881.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7885.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -1947,7 +1947,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7872.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7876.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1974,7 +1974,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x7873.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x7877.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2339,7 +2339,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/snowy-owl-l27-1-009-l-2000x1601.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2357,58 +2357,6 @@
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span><br><span style=\"font-weight: normal;\">Outdoor</span>",
           "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-1d",
-          "_params": {
-            "imageSize": "55",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-2000x1500.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-ausztria-cges-csapatpts-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">Síelés</span>",
-          "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
@@ -2580,7 +2528,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Főbb célterületeink: Ausztria, Olaszország, Franciaország, Szlovénia, Szlovákia.&nbsp;</p><p><br></p><p>Szállását kívánságának megfelelő kategóriában lefoglaljuk (apartman, magánpanzió, szálloda), ezen kívül felnőtt ill. gyerek síbérletet, iskolák számára diákbérletet intézünk kedvezményes áron.&nbsp;</p><p><br></p><p>Cégünk szolgáltatása továbbá, hogy igény esetén magyar nyelvű síoktatót, síoktatókat is biztosít. Természetesen gondolunk azokra is, akik nem szeretnének síelni, így a számukra alternatív téli programokat ajánlunk (szánkózás, éjszakai fáklyás szánkózás, lovas szánozás, esti \"hütte\" program, kirándulás)&nbsp;</p><p><br></p><p>Igény esetén buszt biztosítunk (19, 32, 49 ill. 51 fős Scania Irizar luxusbuszok) a csoportok számára.&nbsp;</p><p><br></p><p>Tekintettel arra, hogy a sí egy veszélyes sport, mindenféleképpen ajánljuk a betegség-, baleset-, poggyászbiztosításunkat, amelyet irodánkban megköthet.&nbsp;</p><p><br></p><p>A teljesség igénye nélkül, íme néhány síterület Ausztriában:</p><p>· Murau</p><p>· Obertauern</p><p>· Lungau és térsége</p><p>· Bad Kleinkirchheim</p><p>· Mariazell</p><p>· Schladming</p><p>· Sölden</p><p><br></p><p>Rafting:</p><p><br></p><p>A Wings Travel Utazásszervező Kft. extrém sport szekciója elsősorban Ausztriába, a Steiermark szívében fekvő saját rafting-központjába szervezi vadvízi túráit, amely Budapesttől 460 km-re, a Mar völgyében található. Mindemellett a Salzára és a Socára is szervezi raftingtúráit. Kiegészítésként kanyoning, hydrospeed programokkal színesítjük ajánlatunkat.&nbsp;</p><p><br></p><p>Napjainkban az üzleti élet számos területén meghatározó tényező lehet egy olyan munkatársi gárda, amely az adott versenyhelyzetben a leghatékonyabb módon, jól összehangoltan működik. A közös evezés, a gyalogtúrák és az esti bulik mind erősítik a csapatszellemet, az aktív részvétel pedig nemcsak erő és energia felszabadítására, hanem kikapcsolódásra és a stressz levezetésére is kiválóan alkalmas.&nbsp;</p><p><br></p><p>De mi is az a rafting?&nbsp;</p><p><br></p><p>Pontosan lefordítva: vadvízi evezés.&nbsp;</p><p><br></p><p>Egy kicsit részletesebben: egy kellemes, izgalmas, élményekkel teli, vidám hétvége Ausztriában, a kalandvágyó és sportos vendégek számára. Ajánlatunk áprilistól októberig, hétvégékre és hétköznapokra is foglalható.</p><p><br></p><p>Utazás:</p><p>egyénileg (csoportok/cégek esetén buszt is biztosítunk)</p><p>Helyszín:</p><p>áprilisban, májusban és októberben a Salza folyón</p><p>júniustól szeptemberig a Mur folyón</p><p>Szállás:</p><p>** magánpanzió, *** vagy **** szálloda illetve apartmanok</p><p>Ellátás:</p><p>reggeli, félpanzió illetve teljes panzió</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p><p><br></p><p><br></p><p>Rafting információ&nbsp;</p><p><br></p><p><br></p><p>Felszerelés:</p><p>minden résztvevő számára komplett vadvízi felszerelést (titániumbetétes neoprén ruha és cipő, sisak és mellény) biztosítunk. A rafting 2-3 személyes kenukban és/vagy 6-10 fős raftokban történik, szakképzett túravezetőkkel.</p><p>Amit hozni kell:</p><p>fürdőruha, törölköző és meleg ruha a rafting után</p><p>Gyerekek:</p><p>A raftingon a gyerekek 7 éves kortól vehetnek részt, 14 éves korig csak szülői felügyelettel</p><p>Minimális létszám:</p><p>8 fő</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p><p>Vitorlázás:</p><p><br></p><p>Cégünk kezelésében 3 db 6 személyes, a legmodernebb felszereléssel ellátott kajütös versenyhajó áll, amelyekkel a Wings Travel csapata, szakképzett kapitányok irányításával cégek és baráti társaságok számára vitorlás programokat/túrákat szervez a Balatonon. A fent említett hajókon kívül, igény esetén egyéb kategóriájú vitorlásokat is tudunk biztosítani.&nbsp;</p><p><br></p><p>Ezen vitorlás programok igen népszerűek partnereink körében, akik a legkülönbözőbb variációkban ill. programokba beépítve veszik igénybe ezen szolgáltatásainkat. Ilyenek például: vitorlázás egy konkrét úticél megjelölésével, strandprogramok hajóval, vitorlásoktatás.</p><p><br></p><p>Kalandtúra és magaslati kötélpálya:</p><p><br></p><p>Célok:</p><p>elsősorban cégeket, csapatokat szeretnénk kimozdítani a természetbe, és összetartó erejüket növelni extrém körülmények között, a fizikai erő és a mentális készségek fejlesztésével egybekötve</p><p>Időpontok:</p><p>előzetes egyeztetés szerint</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk (sisak, beülő heveder, karabiner, hegymászó kötél)</p><p>Ruházat:</p><p>lapos talpú cipő vagy túrabakancs, szabadidő ruházat, ami nem gátolja a szabad mozgást</p><p>Időtartam:</p><p>kb. 4 - 5 óra</p><p>Utazás:</p><p>egyénileg</p><p>Részvétel:</p><p>mindenki, aki elmúlt 6 éves, de még nem töltötte be a 80. életévét, aki szeretne igazán izgalmas élményeket átélni, és maradandó emlékeket szerezni</p><p>Biztonság:</p><p>a feladatok végrehajtásánál szakképzett túravezetőink segédkeznek a biztonsági felszerelések teljes körű felhasználásával</p><p><br></p><p>· Vízi programok:</p><p><br></p><p>A vízi programunk lebonyolítására bármilyen, 30 x 30 méternél nagyobb vízfelület alkalmas.</p><p><br></p><p>A vezetők elméleti és gyakorlati oktatásban részesítik a 6-8 fős csapatokra osztott résztvevőket. Mindig kettő csapat versenyzik egymással. Amennyiben több, mint kettő csapat vesz részt a programon, abban az esetben a várakozó játékosoknak a kifeszített sátorban frissítőket szolgálunk fel. Azon vendégek, akik úgy döntenek, hogy inkább kívülről kísérik figyelemmel az éppen küzdő társaikat, az idejüket strandolással tölthetik el. A verseny végén eredményhirdetést tartanak az oktatók, és a győztes csapatot a Wings Travel jutalomban részesíti.</p><p><br></p><p>Felszerelés:</p><p>biztosítjuk a teljes felszerelést (titánium betétes neoprénruha és cipő, mentőmellény, sisak, rafting csónakok, stb.)</p><p>Ruházat:</p><p>szabadidőruha, fürdőruha, törölköző</p><p>Programleírás:</p><p>A program oktatással (ismerkedés a felszereléssel és a technikákkal) kezdődik, időtartama kb. 2.5-3 óra.</p><p><br></p><p>· Csapatépítõ játékok (helyszínfüggetlen)</p><p>Cél:</p><p>ezen játékok nem kifejezetten gyerekeknek készültek, de ez nem zárja ki, hogy részt vegyenek bennük. Elsõsorban cégek, csapatok összetartó erejét szeretnénk növelni</p><p>Idõpontok:</p><p>elõzetes megbeszélés szerint</p><p>Felszerelés:</p><p>minden eszközt és felszerelést mi biztosítunk</p><p>Biztonság:</p><p>a programot szakképzett vezetõk segítik, biztonsági felszerelések teljeskörû alkalmazásával</p><p>Ruházat:</p><p>szabadidõ ruházat</p><p><br></p><p><br></p><p><br></p><p>· Magaslati kötélpálya</p><p>Helyszín:</p><p>szabadon választható</p><p><br></p><p><br></p><p>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni. A program tökéletes élményt és kihívást nyújt azon vendégek számára, akik a fizikai és mentális képességüket szeretnék fejleszteni, továbbá kiválóan alkalmas csapatépítésre és az alkalmazottak összekovácsolására is.&nbsp;</p><p><br></p><p>Kezdetben oktatóink egy előadást tartanak a mászópályáról, és bemutatják az akadályokat pontról pontra. Azon vendégek, akik úgy gondolják, hogy inkább kívülről szemlélik az eseményeket vagy éppen nem indultak még el a pályán, kifeszített sátrak alól, árnyékban követhetik figyelemmel a küzdő társaikat egy frissítő elfogyasztása mellett.</p><p><br></p><p>Célok:</p><p>leküzdeni a tériszony érzetét (már akinek van ilyen), javítani az egyensúlyérzéket, növelni az önbizalmat és a fizikai erőnlétet</p><p>Biztonság:</p><p>az akadályok leküzdésében szakképzett vezetőink segédkeznek, és minden ponton biztonsági felszereléseket alkalmazunk (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Időtartam:</p><p>kb. 2,5 - 3 óra</p><p>Ruházat:</p><p>szabadidőruha vagy ami nem gátolja a szabad mozgást, a lábbeli lapos talpú legyen, esetleg magas szárú bakancs</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk a helyszínen (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Akadályok:</p><p>7-8 méteres magasságban kell végigtornászni az igazán összetett, kötelekből és fából készült pályán</p><p><br></p><p>Szolgáltatásaink</p><p><br></p>",
+          "text": "<p>Főbb célterületeink: Ausztria, Olaszország, Franciaország, Szlovénia, Szlovákia.&nbsp;</p><p><br></p><p>Szállását kívánságának megfelelő kategóriában lefoglaljuk (apartman, magánpanzió, szálloda), ezen kívül felnőtt ill. gyerek síbérletet, iskolák számára diákbérletet intézünk kedvezményes áron.&nbsp;</p><p><br></p><p>Cégünk szolgáltatása továbbá, hogy igény esetén magyar nyelvű síoktatót, síoktatókat is biztosít. Természetesen gondolunk azokra is, akik nem szeretnének síelni, így a számukra alternatív téli programokat ajánlunk (szánkózás, éjszakai fáklyás szánkózás, lovas szánozás, esti \"hütte\" program, kirándulás)&nbsp;</p><p><br></p><p>Igény esetén buszt biztosítunk (19, 32, 49 ill. 51 fős Scania Irizar luxusbuszok) a csoportok számára.&nbsp;</p><p><br></p><p>Tekintettel arra, hogy a sí egy veszélyes sport, mindenféleképpen ajánljuk a betegség-, baleset-, poggyászbiztosításunkat, amelyet irodánkban megköthet.&nbsp;</p><p><br></p><p>A teljesség igénye nélkül, íme néhány síterület Ausztriában:</p><p>· Murau</p><p>· Obertauern</p><p>· Lungau és térsége</p><p>· Bad Kleinkirchheim</p><p>· Mariazell</p><p>· Schladming</p><p>· Sölden</p><p><br></p><p>Rafting:</p><p><br></p><p>A Wings Travel Utazásszervező Kft. extrém sport szekciója elsősorban Ausztriába, a Steiermark szívében fekvő saját rafting-központjába szervezi vadvízi túráit, amely Budapesttől 460 km-re, a Mar völgyében található. Mindemellett a Salzára és a Socára is szervezi raftingtúráit. Kiegészítésként kanyoning, hydrospeed programokkal színesítjük ajánlatunkat.&nbsp;</p><p><br></p><p>Napjainkban az üzleti élet számos területén meghatározó tényező lehet egy olyan munkatársi gárda, amely az adott versenyhelyzetben a leghatékonyabb módon, jól összehangoltan működik. A közös evezés, a gyalogtúrák és az esti bulik mind erősítik a csapatszellemet, az aktív részvétel pedig nemcsak erő és energia felszabadítására, hanem kikapcsolódásra és a stressz levezetésére is kiválóan alkalmas.&nbsp;</p><p><br></p><p>De mi is az a rafting?&nbsp;</p><p><br></p><p>Pontosan lefordítva: vadvízi evezés.&nbsp;</p><p><br></p><p>Egy kicsit részletesebben: egy kellemes, izgalmas, élményekkel teli, vidám hétvége Ausztriában, a kalandvágyó és sportos vendégek számára. Ajánlatunk áprilistól októberig, hétvégékre és hétköznapokra is foglalható.</p><p><br></p><p>Utazás:</p><p>egyénileg (csoportok/cégek esetén buszt is biztosítunk)</p><p>Helyszín:</p><p>áprilisban, májusban és októberben a Salza folyón</p><p>júniustól szeptemberig a Mur folyón</p><p>Szállás:</p><p>** magánpanzió, *** vagy **** szálloda illetve apartmanok</p><p>Ellátás:</p><p>reggeli, félpanzió illetve teljes panzió</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p><p><br></p><p><br></p><p>Rafting információ&nbsp;</p><p><br></p><p><br></p><p>Felszerelés:</p><p>minden résztvevő számára komplett vadvízi felszerelést (titániumbetétes neoprén ruha és cipő, sisak és mellény) biztosítunk. A rafting 2-3 személyes kenukban és/vagy 6-10 fős raftokban történik, szakképzett túravezetőkkel.</p><p>Amit hozni kell:</p><p>fürdőruha, törölköző és meleg ruha a rafting után</p><p>Gyerekek:</p><p>A raftingon a gyerekek 7 éves kortól vehetnek részt, 14 éves korig csak szülői felügyelettel</p><p>Minimális létszám:</p><p>8 fő</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p><p>Vitorlázás:</p><p><br></p><p>Cégünk kezelésében 3 db 6 személyes, a legmodernebb felszereléssel ellátott kajütös versenyhajó áll, amelyekkel a Wings Travel csapata, szakképzett kapitányok irányításával cégek és baráti társaságok számára vitorlás programokat/túrákat szervez a Balatonon. A fent említett hajókon kívül, igény esetén egyéb kategóriájú vitorlásokat is tudunk biztosítani.&nbsp;</p><p><br></p><p>Ezen vitorlás programok igen népszerűek partnereink körében, akik a legkülönbözőbb variációkban ill. programokba beépítve veszik igénybe ezen szolgáltatásainkat. Ilyenek például: vitorlázás egy konkrét úticél megjelölésével, strandprogramok hajóval, vitorlásoktatás.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>· Magaslati kötélpálya</p><p>Helyszín:</p><p>szabadon választható</p><p><br></p><p><br></p><p>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni. A program tökéletes élményt és kihívást nyújt azon vendégek számára, akik a fizikai és mentális képességüket szeretnék fejleszteni, továbbá kiválóan alkalmas csapatépítésre és az alkalmazottak összekovácsolására is.&nbsp;</p><p><br></p><p>Kezdetben oktatóink egy előadást tartanak a mászópályáról, és bemutatják az akadályokat pontról pontra. Azon vendégek, akik úgy gondolják, hogy inkább kívülről szemlélik az eseményeket vagy éppen nem indultak még el a pályán, kifeszített sátrak alól, árnyékban követhetik figyelemmel a küzdő társaikat egy frissítő elfogyasztása mellett.</p><p><br></p><p>Célok:</p><p>leküzdeni a tériszony érzetét (már akinek van ilyen), javítani az egyensúlyérzéket, növelni az önbizalmat és a fizikai erőnlétet</p><p>Biztonság:</p><p>az akadályok leküzdésében szakképzett vezetőink segédkeznek, és minden ponton biztonsági felszereléseket alkalmazunk (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Időtartam:</p><p>kb. 2,5 - 3 óra</p><p>Ruházat:</p><p>szabadidőruha vagy ami nem gátolja a szabad mozgást, a lábbeli lapos talpú legyen, esetleg magas szárú bakancs</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk a helyszínen (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Akadályok:</p><p>7-8 méteres magasságban kell végigtornászni az igazán összetett, kötelekből és fából készült pályán</p><p><br></p><p><br></p>",
           "_styles": {
             "P": {
               "text-align": "left"
@@ -2635,7 +2583,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7860.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7864.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -2662,7 +2610,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7881.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x7885.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -2689,7 +2637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7872.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7876.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2716,7 +2664,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x7873.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x7877.jpg",
               "link": "",
               "alt": "",
               "title": "",
