@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "Rendezvény.html",
+    "currentPage": "Repülőjegy.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -12,9 +12,9 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Yanone Kaffeesatz",
-        "subtitleFont": "Ubuntu",
-        "textFont": "Droid Serif",
+        "titleFont": "Open Sans Condensed",
+        "subtitleFont": "Open Sans Condensed",
+        "textFont": "Open Sans Condensed",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
@@ -175,7 +175,7 @@
           "number1": "01",
           "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
           "subtitle1": "<span style=\"font-style: normal;\">Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;</span>",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -202,7 +202,7 @@
           "number2": "02",
           "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
           "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -227,9 +227,9 @@
             }
           },
           "number3": "03",
-          "title3": "Rendezvények és konferenciák",
-          "subtitle3": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
+          "subtitle3": "<span style=\"font-style: normal;\">Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;</span>",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -254,9 +254,9 @@
             }
           },
           "number4": "04",
-          "title4": "Outdoor",
-          "subtitle4": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title4": "<span style=\"font-weight: normal;\">Outdoor</span>",
+          "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -1221,7 +1221,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Wingstravel<br>Repülőjegy és szállásfoglalás",
+          "title": "<span style=\"font-weight: normal;\">Wingstravel<br>Repülőjegy és szállásfoglalás</span>",
           "text": "Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket. Ezt a tevékenységet a világ vezető légitársaságainak ügynökeként végezzük. Ennek eredményeként garantálni tudjuk, hogy a jegykiállítás napján, az adott útvonalra, a legolcsóbb tarifán értékesítjük a repülőjegyeinket. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -1238,10 +1238,10 @@
           },
           "_anchor": "extMsg-box2-k",
           "_params": {
-            "animText1": " Insentives",
-            "animText2": "Nyaralások",
+            "animText1": "Rendezvények",
+            "animText2": "Rendezvények",
             "animText3": "Rendezvények",
-            "typeSpeed": "40",
+            "typeSpeed": "100",
             "paddingTop": 3,
             "paddingBottom": "4",
             "parallax": false,
@@ -1260,7 +1260,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Wingstravel&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>&nbsp;",
           "text": "Ezen felül vállaljuk - amennyiben erre kedves utasaink igényt tartanak -, hogy telepítünk repülő-, túlsúly- és differenciajegyeket külföldre, a légitársaság által előírt áron. Munkatársaink készséggel adnak ár- és járatinformációt több várost érintő repülőjegy-foglalás esetén, valamint segítséget nyújtunk a fapados járatokra való foglalásban is.<br><br>A Go Global Travel (több mint 50.000 szálláshely – Európa, Észak- és Dél-Amerika, Ázsia) az AIC Travel Group (65.000 hotel világszerte) és a Hotelbeds Accommodation and Destinaton Services (2.500 hotel világszerte) nemzetközi szállásfoglaló rendszereken keresztül azonnal megtaláljuk az adott időpontban elérhető, legjobb, legolcsóbb és az igényeknek leginkább megfelelő szállásokat. Az egyszerű besorolású szálláshelyektől a luxusszállodákig különböző kategóriákban és különböző árfekvés mellett, egy alapvető minőségi szinthez ragaszkodva biztosítunk szálláslehetőségeket, kongresszusok, vásárok, kiállítások és kiemelt rendezvények ideje alatt is, az év bármely időszakában.<br>Egyéb szolgáltatások is előre lefoglalhatóak, amelyek elősegítik, hogy kikapcsolódása zökkenőmentesen teljen.<br><br>Transzfer<br>Utasaink részére mind Magyarországon, mind külföldön biztosítunk repülőtéri transzfereket. A megrendelő igényeinek megfelelően a taxitól a limuzin szervizen keresztül a turistabuszig bezárólag, minden kategóriában biztosítjuk ezen szolgáltatásunkat. Irodánk segítséget nyújt abban is, hogy pontos információt kapjon arról, hogy az adott repülőtérről hogyan érheti el a lehető legkedvezőbb áron és legrövidebb idő alatt (metró, vonat, busz) a választott szállodát.<br><br>Autóbérlés<br>Irodánk kapcsolatban áll a világ vezető, autóbérléssel foglalkozó cégeivel (Hertz, Budget), ezáltal biztosítva azt a lehetőséget, hogy az utas a számára legmegfelelőbb, különféle extrákkal felszerelt autótípust választhassa.<br>Biztosítás ügyintézés<br>Utasaink számára utasbiztosításokat kötünk (betegség-, baleset-, poggyászbiztosítás, útlemondási biztosítás). Cégünk az Európai Utazási Biztosítóval áll szerződésben.<br>Városnéző kirándulás<br>Külföldi partnereink segítségével módunkban áll ajánlani különböző városnéző kirándulásokat és egyéb eseményeken való (színház, opera, múzeum, kiállítás) részvételt.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#extFeatures12-a\" data-toolbar=\"-mbrBtnMove\">Szolgáltatásaink</a>"
         },
