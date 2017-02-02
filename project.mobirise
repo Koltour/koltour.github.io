@@ -626,7 +626,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -635,7 +635,7 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/wings-440x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "HOME",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -645,8 +645,9 @@
               "linkInNewWindow": false,
               "name": "home",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
+              "newWindow": false,
               "active": true
             }
           },
@@ -1216,7 +1217,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1795,7 +1796,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -2374,7 +2375,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -2541,7 +2542,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Síelés</span>",
           "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Outdoor.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Outdoor.html\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -2594,7 +2595,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Vitorlázás</span>",
           "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -2645,9 +2646,9 @@
               "size": 0
             }
           },
-          "title": "Rafting",
+          "title": "<span style=\"font-weight: normal;\">Rafting</span>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -2990,7 +2991,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
