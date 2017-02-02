@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
 
 
@@ -10,11 +10,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Droid Serif', serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Droid Serif', serif;
 }
 .btn,
 .alert,
@@ -437,7 +437,7 @@ h6,
   font-family: 'Merriweather', serif;
 }
 .features6 .description {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Droid Serif', serif;
 }
 .count,
 .counter-title {
@@ -526,7 +526,7 @@ h6,
   font-style: normal;
 }
 .extFeatures .feature-text {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Droid Serif', serif;
 }
 .extFeatures2 h4 {
   font-family: 'Merriweather', serif;
@@ -622,7 +622,7 @@ h6,
   color: #c0a375;
 }
 .extAccordion1 .panel-heading a {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Droid Serif', serif;
 }
 .extAccordion1 .pseudoPlus,
 .extAccordion2 .pseudoPlus,
@@ -638,7 +638,7 @@ h6,
 .extAccordion2 .panel-heading a,
 .extAccordion3 .panel-heading a,
 .extToggle1 .panel-heading a {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Droid Serif', serif;
 }
 .extProgressBar5 .progress-primary[value]::-webkit-progress-value {
   background-color: #c0a375;

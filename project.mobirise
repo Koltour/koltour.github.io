@@ -14,7 +14,7 @@
         "dangerColor": "#f28281",
         "titleFont": "Merriweather",
         "subtitleFont": "Ubuntu",
-        "textFont": "Slabo 27px",
+        "textFont": "Droid Serif",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
@@ -174,7 +174,7 @@
           },
           "number1": "01",
           "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
-          "subtitle1": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;",
+          "subtitle1": "<span style=\"font-style: normal;\">Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;</span>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -201,7 +201,7 @@
           },
           "number2": "02",
           "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
-          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk <b>kiválasztani</b> a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
+          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
           "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
