@@ -96,7 +96,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x112520.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x112522.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -277,7 +277,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146821.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146823.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -316,7 +316,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146821.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146823.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
