@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "index.html",
+    "currentPage": "Nyaralások.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -391,7 +391,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lépjen velünk kapcsolatba</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
         },
         {
           "_tags": [
@@ -700,14 +700,22 @@
             "overlay": true,
             "overlayOpacity": "0.4",
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel<br>Nyaralások</span>",
-          "text": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! <br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Hogyan tesszük ezt?&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Másképp, mint konkurenseink!&nbsp;</span><br><br>Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit maximálisan figyelembe véve, testre szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk a legmegfelelőbb szállást, továbbá fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy utasaink elégedetten, tele élményekkel térjenek haza.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "text": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp,<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">mint konkurenseink!&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">maximálisan figyelembe véve, testre szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk a legmegfelelőbb szállást, továbbá</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy utasaink</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">elégedetten, tele élményekkel térjenek haza.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-lead SPAN": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1033,7 +1041,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lépjen velünk kapcsolatba</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1612,7 +1620,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lépjen velünk kapcsolatba</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2191,7 +2199,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lépjen velünk kapcsolatba</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2770,7 +2778,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lépjen velünk kapcsolatba</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
         },
         {
           "alias": "mobirise3-blocks/components",

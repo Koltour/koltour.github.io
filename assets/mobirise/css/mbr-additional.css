@@ -792,6 +792,12 @@ h6,
   color: #c0a375!important;
 }
 
+#header1-c .mbr-section-lead {
+  text-align: left;
+}
+#header1-c .mbr-section-lead SPAN {
+  text-align: right;
+}
 #extMsg-box2-d P {
   text-align: center;
 }
