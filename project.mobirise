@@ -74,7 +74,7 @@
             },
             "P": {
               "color": "#ffffff",
-              "text-align": "right"
+              "text-align": "center"
             }
           }
         },
@@ -96,7 +96,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x112522.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/woman-walk-in-cornfield-2000x112524.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -277,7 +277,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146823.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146825.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -316,7 +316,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146823.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-happy-woman-with-a-scarf-in-the-evening-field-2000x146825.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -342,6 +342,12 @@
               "text-align": "center"
             },
             ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
               "text-align": "center"
             }
           },
