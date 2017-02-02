@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "Outdoor.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -13,8 +13,8 @@
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Merriweather",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "subtitleFont": "Ubuntu",
+        "textFont": "Slabo 27px",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
@@ -173,8 +173,8 @@
             }
           },
           "number1": "01",
-          "title1": "Nyaralások",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
+          "subtitle1": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -200,8 +200,8 @@
             }
           },
           "number2": "02",
-          "title2": "Repülőjegy és szállásfoglalás",
-          "subtitle2": "One of Bootstrap 4s big points",
+          "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
+          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk <b>kiválasztani</b> a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
           "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -228,7 +228,7 @@
           },
           "number3": "03",
           "title3": "Rendezvények és konferenciák",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -255,7 +255,7 @@
           },
           "number4": "04",
           "title4": "Outdoor",
-          "subtitle4": "Mobirise gives you the freedom",
+          "subtitle4": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },

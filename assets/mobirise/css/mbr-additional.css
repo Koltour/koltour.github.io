@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 
 
@@ -10,11 +10,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .btn,
 .alert,
@@ -61,20 +61,23 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Merriweather', serif;
 }
 .mbr-author-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .mbr-plan-title {
   font-family: 'Merriweather', serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .bg-primary {
   background-color: #c0a375 !important;
@@ -419,27 +422,30 @@ h6,
 }
 .extCountdown1 .period,
 .extCountdown2 .period {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extCountdown1 .dot,
 .extCountdown2 .dot {
   font-family: 'Merriweather', serif;
 }
 .features6 .feature-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .features6 .feature-title {
   font-family: 'Merriweather', serif;
 }
 .features6 .description {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .count,
 .counter-title {
   font-family: 'Merriweather', serif;
 }
 .counter-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .mbr-iconfont-counters1 {
   color: #c0a375;
@@ -470,10 +476,12 @@ h6,
 .extHeader12 .container p,
 .extHeader13 .container p,
 .extFeatures10 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extHeader5 .container label {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extHeader9 form p.form-subtitle {
   font-family: 'Merriweather', serif;
@@ -485,7 +493,8 @@ h6,
   font-family: 'Merriweather', serif;
 }
 .extHeader11 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extHeader12 h4,
 .extFeatures10 h4 {
@@ -493,7 +502,8 @@ h6,
 }
 .extHeader12 .subtitle,
 .extFeatures10 .subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extHeader13 h4 {
   font-family: 'Merriweather', serif;
@@ -502,7 +512,8 @@ h6,
   font-family: 'Merriweather', serif;
 }
 .extHeader13 .period {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extHeader13 .dot {
   font-family: 'Merriweather', serif;
@@ -511,10 +522,11 @@ h6,
   font-family: 'Merriweather', serif;
 }
 .extFeatures .feature-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extFeatures .feature-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .extFeatures2 h4 {
   font-family: 'Merriweather', serif;
@@ -530,7 +542,8 @@ h6,
 .extFeatures4 h5,
 .extFeatures6 h5,
 .extFeatures5 .card-title h5 {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extForm1 h4,
 .extForm2 h4,
@@ -542,19 +555,22 @@ h6,
 .extForm2 .subtitle,
 .extForm3 .subtitle,
 .extForm4 .subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extForm2 .container h3 {
   font-family: 'Merriweather', serif;
 }
 .extForm2 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extPricingTable1 .bottom_line {
   border-bottom-color: #c0a375;
 }
 .extPricingTable1 .mbr-price small {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extPricingTable1 .mbr-plan-label {
   background: #c0a375;
@@ -563,7 +579,8 @@ h6,
   font-family: 'Merriweather', serif;
 }
 .extCounters2 h5 {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extCounters3 .count {
   font-family: 'Merriweather', serif;
@@ -572,7 +589,8 @@ h6,
   font-family: 'Merriweather', serif;
 }
 .extCounters3 .counter-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extProgressBar .progress-primary[value]::-webkit-progress-value {
   background-color: #c0a375;
@@ -586,7 +604,8 @@ h6,
   }
 }
 .extProgressBar .title-wrap {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extProgressBarRound .progress-radial .overlay {
   font-family: 'Merriweather', serif;
@@ -595,14 +614,15 @@ h6,
   font-family: 'Merriweather', serif;
 }
 .extProgressBar4 .feature-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extTabs1 ul.nav-tabs li a:hover,
 .extTabs2 ul.nav-tabs li a:hover {
   color: #c0a375;
 }
 .extAccordion1 .panel-heading a {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .extAccordion1 .pseudoPlus,
 .extAccordion2 .pseudoPlus,
@@ -618,7 +638,7 @@ h6,
 .extAccordion2 .panel-heading a,
 .extAccordion3 .panel-heading a,
 .extToggle1 .panel-heading a {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .extProgressBar5 .progress-primary[value]::-webkit-progress-value {
   background-color: #c0a375;
@@ -632,19 +652,22 @@ h6,
   }
 }
 .extProgressBar5 .title-wrap {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extMsg-box1 .container h3 {
   font-family: 'Merriweather', serif;
 }
 .extMsg-box1 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extMsg-box1 h4 {
   font-family: 'Merriweather', serif;
 }
 .extMsg-box1 .subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extMsg-box2 .container span,
 .extMsg-box3 .container span,
@@ -654,7 +677,8 @@ h6,
 .extMsg-box2 .container p,
 .extMsg-box3 .container p,
 .extMsg-box4 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
 }
 .extProgressBarRound .pie_progress__number {
   font-family: 'Merriweather', serif;
