@@ -693,7 +693,12 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
-#extMsg-box2-8 P {
+#msg-box8-16 .mbr-section-title,
+#msg-box8-16 p {
+  color: #fff;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
   text-align: center;
 }
 #extFeatures12-a .card-number {
@@ -712,15 +717,6 @@ h6,
   color: #c0a375;
 }
 #contacts3-4 P {
-  color: #ffffff;
-}
-#form1-14 .form-control-label {
-  color: #232323;
-}
-#form1-14 .mbr-section-title {
-  color: #ffffff;
-}
-#form1-14 SMALL {
   color: #ffffff;
 }
 #extTestimonials5-9 .mbr-section-subtitle {
@@ -1068,20 +1064,8 @@ h6,
   color: #c0a375!important;
 }
 
-#extMsg-box2-y P {
-  text-align: center;
-}
-#extFeatures12-z .card-number {
-  color: #c0a375;
-}
-#extFeatures12-z .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-z .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-z H4 {
-  color: #ffffff;
+#content1-15 P {
+  text-align: left;
 }
 #contacts3-11 STRONG {
   color: #c0a375;
