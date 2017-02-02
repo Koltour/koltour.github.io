@@ -63,7 +63,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Wingstravel",
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
           "text": "Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a rugalmasságot.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -134,7 +134,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#2a2222",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
