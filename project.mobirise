@@ -737,10 +737,10 @@
             "paddingTop": 3,
             "paddingBottom": "4",
             "parallax": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box2-bg.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -753,7 +753,7 @@
             "showButtons": true
           },
           "title": "Wingstravel&nbsp;",
-          "text": "Irodánk különböző típusú utazási kínálataiból választhat, a tengerparti nyaralásoktól a kombinált és körutakon át, egészen a városlátogatásokig. A fenti utakat a teljesség igénye nélkül a következő országokba szervezzük: Ausztria, Csehország, Görögország, Horvátország, Olaszország, Portugália, Spanyolország. Ezen kívül figyelmükbe ajánljuk egzotikus úti céljainkat is, mint Argentína, Brazília, Bali, Kína, Kuba, Mexikó, Tanzánia, Thaiföld. <br><br>Amennyiben ragaszkodik valamely más utazási iroda ajánlatához, úgy azt nálunk is befoglalhatja, hiszen a legnagyobb utazásszervezők ügynökeként is működünk. <br><br>Ügyfeleink megelégedése továbbra is mindennél fontosabb számunkra, és reméljük, hogy ezt hamarosan Önnek is megmutathatjuk.<br>",
+          "text": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp,<br><span style=\"font-size: 24px; line-height: 1.5;\">mint konkurenseink!&nbsp;</span><br><span style=\"font-size: 24px; line-height: 1.5;\">Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit</span><br><span style=\"font-size: 24px; line-height: 1.5;\">maximálisan figyelembe véve, testre szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása</span><br><span style=\"font-size: 24px; line-height: 1.5;\">során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk a legmegfelelőbb szállást, továbbá</span><br><span style=\"font-size: 24px; line-height: 1.5;\">fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy utasaink</span><br><span style=\"font-size: 24px; line-height: 1.5;\">elégedetten, tele élményekkel térjenek haza.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#extFeatures12-a\" data-toolbar=\"-mbrBtnMove\">Szolgáltatásaink</a>"
         },
         {
