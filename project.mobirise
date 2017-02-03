@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "index.html",
+    "currentPage": "Rendezvény.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
       "email": "kooltaip@gmail.com"
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 89,
+    "uniqCompNum": 93,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -648,11 +648,11 @@
               "state": "ok",
               "stateDetails": ""
             },
-            "showTitle": true,
-            "showContacts": true,
+            "showTitle": false,
+            "showContacts": false,
             "showIcons": false,
             "showSubtitle": false,
-            "showText": true,
+            "showText": false,
             "showForm": true,
             "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-white btn-white-outline\">KAPCSOLAT</a>"
           },
@@ -679,7 +679,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Név*"
               },
               "phone": {
                 "title": "Phone",
@@ -694,7 +694,7 @@
               "message": {
                 "title": "Message",
                 "visible": true,
-                "customTitle": "Message"
+                "customTitle": "Üzenet"
               }
             }
           },
@@ -708,7 +708,7 @@
           "_anchor": "contacts1-1o",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -729,7 +729,7 @@
               "name": "linegraph",
               "family": "et-line",
               "link": "index.html",
-              "size": 0,
+              "size": 119,
               "active": true,
               "newWindow": false
             }
@@ -866,7 +866,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1015,7 +1015,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "_tags": [
@@ -1085,7 +1085,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp, mint konkurenseink!&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit maximálisan figyelembe véve, testre&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">legmegfelelőbb szállást, továbbá fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">utasaink elégedetten, tele élményekkel térjenek haza.</span></p>"
+          "text": "<p>Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp, mint konkurenseink!&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit maximálisan figyelembe véve, testre&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">legmegfelelőbb szállást, továbbá fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">utasaink elégedetten, tele élményekkel térjenek haza. Irodánk különböző típusú utazási kínálataiból választhat, a tengerparti nyaralásoktól a kombinált és körutakon át, egészen a városlátogatásokig. A fenti utakat a teljesség igénye nélkül a következő országokba szervezzük: Ausztria, Csehország, Görögország, Horvátország, Olaszország, Portugália, Spanyolország. Ezen kívül figyelmükbe ajánljuk egzotikus úti céljainkat is, mint Argentína, Brazília, Bali, Kína, Kuba, Mexikó, Tanzánia, Thaiföld.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Amennyiben ragaszkodik valamely más utazási iroda ajánlatához, úgy azt nálunk is befoglalhatja, hiszen a legnagyobb utazásszervezők ügynökeként is működünk. &nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ügyfeleink megelégedése továbbra is mindennél fontosabb számunkra, és reméljük, hogy ezt hamarosan Önnek is megmutathatjuk.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>"
         },
         {
           "_styles": {
@@ -1487,7 +1487,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "_tags": [
@@ -1549,7 +1549,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ezt a tevékenységet a világ vezető légitársaságainak ügynökeként végezzük.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ennek eredményeként garantálni tudjuk, hogy a jegykiállítás napján, az adott&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">útvonalra, a legolcsóbb tarifán értékesítjük a repülőjegyeinket.</span></p>"
+          "text": "<p>Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ezt a tevékenységet a világ vezető légitársaságainak ügynökeként végezzük.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ennek eredményeként garantálni tudjuk, hogy a jegykiállítás napján, az adott&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">útvonalra, a legolcsóbb tarifán értékesítjük a repülőjegyeinket. Ezen felül vállaljuk - amennyiben erre kedves utasaink igényt tartanak -, hogy telepítünk repülő-, túlsúly- és differenciajegyeket külföldre, a légitársaság által előírt áron. Munkatársaink készséggel adnak ár- és járatinformációt több várost érintő repülőjegy-foglalás esetén, valamint segítséget nyújtunk a fapados járatokra való foglalásban is.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></span></p><p>A Go Global Travel (több mint 50.000 szálláshely – Európa, Észak- és Dél-Amerika, Ázsia) az AIC Travel Group (65.000 hotel világszerte) és a Hotelbeds Accommodation and Destinaton Services (2.500 hotel világszerte) nemzetközi szállásfoglaló rendszereken keresztül azonnal megtaláljuk az adott időpontban elérhető, legjobb, legolcsóbb és az igényeknek leginkább megfelelő szállásokat. Az egyszerű besorolású szálláshelyektől a luxusszállodákig különböző kategóriákban és különböző árfekvés mellett, egy alapvető minőségi szinthez ragaszkodva biztosítunk szálláslehetőségeket, kongresszusok, vásárok, kiállítások és kiemelt rendezvények ideje alatt is, az év bármely időszakában.</p><p>Egyéb szolgáltatások is előre lefoglalhatóak, amelyek elősegítik, hogy kikapcsolódása zökkenőmentesen teljen.</p><p><br></p><p><b>Transzfer</b></p><p>Utasaink részére mind Magyarországon, mind külföldön biztosítunk repülőtéri transzfereket. A megrendelő igényeinek megfelelően a taxitól a limuzin szervizen keresztül a turistabuszig bezárólag, minden kategóriában biztosítjuk ezen szolgáltatásunkat. Irodánk segítséget nyújt abban is, hogy pontos információt kapjon arról, hogy az adott repülőtérről hogyan érheti el a lehető legkedvezőbb áron és legrövidebb idő alatt (metró, vonat, busz) a választott szállodát.</p><p><br></p><p><b>Autóbérlés</b></p><p>Irodánk kapcsolatban áll a világ vezető, autóbérléssel foglalkozó cégeivel (Hertz, Budget), ezáltal biztosítva azt a lehetőséget, hogy az utas a számára legmegfelelőbb, különféle extrákkal felszerelt autótípust választhassa.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Biztosítás ügyintézés</b>&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Utasaink számára utasbiztosításokat kötünk (betegség-, baleset-, poggyászbiztosítás, útlemondási biztosítás). Cégünk az Európai Utazási Biztosítóval áll szerződésben.</span></p><p><br></p><p><b>Városnéző kirándulás</b></p><p>Külföldi partnereink segítségével módunkban áll ajánlani különböző városnéző kirándulásokat és egyéb eseményeken való (színház, opera, múzeum, kiállítás) részvételt.</p>"
         },
         {
           "_styles": {
@@ -1921,7 +1921,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a kreativitást, az újszerűséget és a rugalmasságot.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Partnereink számára 1994. óta sikeresen szervezünk üzleti és incentive utakat, melyeket a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">megrendelő cég kívánságainak, igényeinek megfelelően, cégünkön belül, az e témában&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rendkívül tapasztalt részleg végzi. Útjaink színvonalát, szolgáltatásaink minőségét&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">munkatársaink szakmai tudása és lelkiismeretes munkája biztosítja.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rugalmasságot.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Elmondhatjuk magunkról, hogy a fenti filozófiánknak köszönhetően régi ügyfeleinkkel mind&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a mai napig sikeresen működünk együtt. Partnereink elsősorban olyan nemzetközi cégek, akik&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">az incentive utakat és rendezvényeket motivációs eszközként, hatékonyan alkalmazzák&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">vállalati stratégiájukban.</span></p>"
+          "text": "<p>Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ez köszönhető corporate ügyfeleink maximális bizalmának, akik az évek során az incentive és üzleti utak által megtapasztalt szervezés ismeretében egyre több, nagy volumenű céges rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a Wings Travel hírnevét.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A konferenciák és rendezvények megszervezése esetén is ugyanazon értékeket tartjuk szem előtt, mint incentive és üzleti útjaink során: a minőséget, a kreativitást, az újszerűséget és a rugalmasságot, a helyszínek kiválasztásakor a lehető legnagyobb körültekintést és előkészítést.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ezen irányelveknek köszönhetően ügyfélkörünk az évek során egyre bővült, és erre nagyon büszkék vagyunk.</span></p>"
         },
         {
           "_styles": {
@@ -2312,7 +2312,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         }
       ]
     },
@@ -2825,7 +2825,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x7868.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x78611.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -2879,7 +2879,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x7879.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78712.jpg",
               "link": "Rendezvény.html",
               "alt": "",
               "title": "",
@@ -2906,7 +2906,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x78710.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x78713.jpg",
               "link": "Outdoor.html",
               "alt": "",
               "title": "",
@@ -3008,7 +3008,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x78710.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x78713.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3712,7 +3712,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         }
       ]
     }
