@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "Repülőjegy.html",
+    "currentPage": "Outdoor.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,8 +24,12 @@
       "email": "kooltaip@gmail.com"
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 59,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 79,
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -69,40 +73,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-16",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             }
@@ -128,51 +98,11 @@
           "_name": "content1",
           "_anchor": "content1-1b",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "text": "<p>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a kreativitást, az újszerűséget és a rugalmasságot.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Partnereink számára 1994. óta sikeresen szervezünk üzleti és incentive utakat, melyeket a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">megrendelő cég kívánságainak, igényeinek megfelelően, cégünkön belül, az e témában&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rendkívül tapasztalt részleg végzi. Útjaink színvonalát, szolgáltatásaink minőségét&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">munkatársaink szakmai tudása és lelkiismeretes munkája biztosítja.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rugalmasságot.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Elmondhatjuk magunkról, hogy a fenti filozófiánknak köszönhetően régi ügyfeleinkkel mind&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a mai napig sikeresen működünk együtt. Partnereink elsősorban olyan nemzetközi cégek, akik&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">az incentive utakat és rendezvényeket motivációs eszközként, hatékonyan alkalmazzák&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">vállalati stratégiájukban.</span></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-19",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">a kreativitást, az újszerűséget és a rugalmasságot.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Partnereink számára 1994. óta sikeresen szervezünk üzleti és incentive utakat, melyeket a&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">megrendelő cég kívánságainak, igényeinek megfelelően, cégünkön belül, az e témában&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">rendkívül tapasztalt részleg végzi. Útjaink színvonalát, szolgáltatásaink minőségét&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">munkatársaink szakmai tudása és lelkiismeretes munkája biztosítja.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk,&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">rugalmasságot.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Elmondhatjuk magunkról, hogy a fenti filozófiánknak köszönhetően régi ügyfeleinkkel mind&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">a mai napig sikeresen működünk együtt. Partnereink elsősorban olyan nemzetközi cégek, akik&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">az incentive utakat és rendezvényeket motivációs eszközként, hatékonyan alkalmazzák&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">vállalati stratégiájukban.</span></blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-1a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a kreativitást, az újszerűséget és a rugalmasságot.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Partnereink számára 1994. óta sikeresen szervezünk üzleti és incentive utakat, melyeket a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">megrendelő cég kívánságainak, igényeinek megfelelően, cégünkön belül, az e témában&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rendkívül tapasztalt részleg végzi. Útjaink színvonalát, szolgáltatásaink minőségét&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">munkatársaink szakmai tudása és lelkiismeretes munkája biztosítja.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rugalmasságot.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Elmondhatjuk magunkról, hogy a fenti filozófiánknak köszönhetően régi ügyfeleinkkel mind</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">a mai napig sikeresen működünk együtt. Partnereink elsősorban olyan nemzetközi cégek, akik</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">az incentive utakat és rendezvényeket motivációs eszközként, hatékonyan alkalmazzák&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">vállalati stratégiájukban.</span></p>",
-          "text2": "<p>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb</p><p><br></p><p>részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő</p><p><br></p><p>szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk</p><p><br></p><p>a kreativitást, az újszerűséget és a rugalmasságot.&nbsp;</p><p><br></p><p>Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten</p><p><br></p><p>fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.</p><p><br></p><p>Partnereink számára 1994. óta sikeresen szervezünk üzleti és incentive utakat, melyeket a</p><p><br></p><p>megrendelő cég kívánságainak, igényeinek megfelelően, cégünkön belül, az e témában</p><p><br></p><p>rendkívül tapasztalt részleg végzi. Útjaink színvonalát, szolgáltatásaink minőségét</p><p><br></p><p>munkatársaink szakmai tudása és lelkiismeretes munkája biztosítja.</p><p><br></p><p>A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.</p><p><br></p><p>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig</p><p><br></p><p>kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk,</p><p><br></p><p>amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a</p><p><br></p><p>rugalmasságot.</p><p><br></p><p>Elmondhatjuk magunkról, hogy a fenti filozófiánknak köszönhetően régi ügyfeleinkkel mind</p><p><br></p><p>a mai napig sikeresen működünk együtt. Partnereink elsősorban olyan nemzetközi cégek, akik</p><p><br></p><p>az incentive utakat és rendezvényeket motivációs eszközként, hatékonyan alkalmazzák</p><p><br></p><p>vállalati stratégiájukban.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1c",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"index.html#extFeatures12-a\" data-toolbar=\"-mbrBtnMove\">Szolgáltatásaink</a>"
         },
         {
           "_styles": {
@@ -194,14 +124,620 @@
             "Extension"
           ],
           "_name": "extFeatures12",
-          "_anchor": "extFeatures12-a",
+          "_anchor": "extFeatures12-20",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "numbersColor": "@primaryColor",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures4_bg_1.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x786.jpg",
+              "link": "Nyaralások.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number1": "01",
+          "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
+          "subtitle1": "<span style=\"font-style: normal;\">Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;</span>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-1400x787.jpg",
+              "link": "Repülőjegy.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number2": "02",
+          "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
+          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x787.jpg",
+              "link": "Rendezvény.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number3": "03",
+          "title3": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
+          "subtitle3": "<span style=\"font-style: normal;\">Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;</span>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x787.jpg",
+              "link": "Outdoor.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "number4": "04",
+          "title4": "<span style=\"font-weight: normal;\">Outdoor</span>",
+          "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showBullets": true,
+            "visibleSlides": "5",
+            "showArrows": true
+          },
+          "_anchor": "extTestimonials5-9",
+          "title": "Partnereink",
+          "subtitle": "\"Büszkék vagyunk a munkánkra.\""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "<strong>Address</strong><br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "<strong>Contacts</strong><br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": "<p><strong>Linkek</strong><br>Repülőjegy foglalás<br>Konferenciák</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wings-440x128.png",
+              "height": 128,
+              "alt": "HOME",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+        }
+      ]
+    },
+    "Nyaralások.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wings-440x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-lead SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-beach-access-with-beach-sign-2000x1466.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Wingstravel<br>Nyaralások</span>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp,<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mint konkurenseink!&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; maximálisan figyelembe véve, testre szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk a legmegfelelőbb szállást, továbbá</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy utasaink</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; elégedetten, tele élményekkel térjenek haza.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-22",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp, mint konkurenseink!&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit maximálisan figyelembe véve, testre&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">legmegfelelőbb szállást, továbbá fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">utasaink elégedetten, tele élményekkel térjenek haza.</span></p>"
+        },
+        {
+          "_styles": {
+            ".card-number": {
+              "color": "@primaryColor"
+            },
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-1k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "numbersColor": "@primaryColor",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures4_bg.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -328,680 +864,6 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "color": "#c0a375"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-4",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/wings-265x76.png",
-              "class": "card-img-top",
-              "width": 265,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "linkInNewWindow": false,
-              "name": "add-mail",
-              "family": "icon54",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "text1": "Vegye fel a kapcsolatot velünk.<br>Kérje ajánlatunkat. Kollégáink jelentkeznek.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+36 20 9431 899",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "N 47°29'18\" - E 19°03'27\"",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "support@wingtravel.hu",
-          "title1": "Szolgáltatásaink:",
-          "text5": "<li><a class=\"text-white\" href=\"#\">R</a>endezvények és konfernciák</li><li><a class=\"text-white\" href=\"#\">R</a>epülőjegy és szállásfoglalás</li><li><a class=\"text-white\" href=\"#\">N</a>yaralások</li><li><a class=\"text-white\" href=\"#\">O</a>utdoor</li><li><a class=\"text-white\" href=\"#\">I</a>ncentiv</li>",
-          "text6": "<strong>Kontakt</strong><br>Email:&nbsp;wingstravel@wingstravel.hu<br>Tel: +36 20 9431 899<br>Fax: +36 000 0000 002<br><br><br><strong>Cím</strong><br>H-1051 Budapest, Vigyázó F. u. 4.<br>Tel.: +36 20 9431 899<br>E-mail: wingstravel@wingstravel.hu<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kooltaip@gmail.com",
-            "alerts": {
-              "success": "Köszönjük levelét. Kollégáink hamarosan felkeresik."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Üzenet"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTestimonials5",
-          "_params": {
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": 1,
-            "slides": [
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              }
-            ],
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showBullets": true,
-            "visibleSlides": "5",
-            "showArrows": true
-          },
-          "_anchor": "extTestimonials5-9",
-          "title": "Partnereink",
-          "subtitle": "\"Büszkék vagyunk a munkánkra.\"",
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-5",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/wings-440x128.png",
-              "height": 128,
-              "alt": "HOME",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "home",
-              "family": "MobiriseIcons",
-              "link": "index.html",
-              "size": 0,
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
-        }
-      ]
-    },
-    "Nyaralások.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-c",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-beach-access-with-beach-sign-2000x1466.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<span style=\"font-weight: normal;\">Wingstravel<br>Nyaralások</span>",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp,<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mint konkurenseink!&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; maximálisan figyelembe véve, testre szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk a legmegfelelőbb szállást, továbbá</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy utasaink</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; elégedetten, tele élményekkel térjenek haza.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left"
-            },
-            ".mbr-section-lead SPAN": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMsg-box2",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "extMsg-box2-d",
-          "_params": {
-            "animText1": " Insentives",
-            "animText2": "Nyaralások",
-            "animText3": "Rendezvények",
-            "typeSpeed": "40",
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box2-bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Wingstravel&nbsp;",
-          "text": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp,<br><span style=\"font-size: 24px; line-height: 1.5;\">mint konkurenseink!&nbsp;</span><br><span style=\"font-size: 24px; line-height: 1.5;\">Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit</span><br><span style=\"font-size: 24px; line-height: 1.5;\">maximálisan figyelembe véve, testre szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása</span><br><span style=\"font-size: 24px; line-height: 1.5;\">során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk a legmegfelelőbb szállást, továbbá</span><br><span style=\"font-size: 24px; line-height: 1.5;\">fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy utasaink</span><br><span style=\"font-size: 24px; line-height: 1.5;\">elégedetten, tele élményekkel térjenek haza.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#extFeatures12-a\" data-toolbar=\"-mbrBtnMove\">Szolgáltatásaink</a>"
-        },
-        {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-1k",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "numbersColor": "@primaryColor",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures4_bg.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x78620.jpg",
-              "link": "Nyaralások.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number1": "01",
-          "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
-          "subtitle1": "<span style=\"font-style: normal;\">Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;</span>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x78821.jpg",
-              "link": "Repülőjegy.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number2": "02",
-          "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
-          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78722.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number3": "03",
-          "title3": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
-          "subtitle3": "<span style=\"font-style: normal;\">Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;</span>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x78723.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number4": "04",
-          "title4": "<span style=\"font-weight: normal;\">Outdoor</span>",
-          "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "color": "#c0a375"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/wings-265x76.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Vegye fel a kapcsolatot velünk.<br>Kérje ajánlatunkat. Kollégáink jelentkeznek.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+36 20 9431 899",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "N 47°29'18\" - E 19°03'27\"",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "support@wingtravel.hu",
-          "title1": "Szolgáltatásaink:",
-          "text5": "<li><a class=\"text-white\" href=\"#\">R</a>endezvények és konfernciák</li><li><a class=\"text-white\" href=\"#\">R</a>epülőjegy és szállásfoglalás</li><li><a class=\"text-white\" href=\"#\">N</a>yaralások</li><li><a class=\"text-white\" href=\"#\">O</a>utdoor</li><li><a class=\"text-white\" href=\"#\">I</a>ncentiv</li>",
-          "text6": "<strong>Kontakt</strong><br>Email:&nbsp;wingstravel@wingstravel.hu<br>Tel: +36 20 9431 899<br>Fax: +36 000 0000 002<br><br><br><strong>Cím</strong><br>H-1051 Budapest, Vigyázó F. u. 4.<br>Tel.: +36 20 9431 899<br>E-mail: wingstravel@wingstravel.hu<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kooltaip@gmail.com",
-            "alerts": {
-              "success": "Köszönjük levelét. Kollégáink hamarosan felkeresik."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Üzenet"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
-        },
-        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1123,6 +985,42 @@
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>"
+        }
+      ]
+    },
+    "Repülőjegy.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -1177,7 +1075,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-i",
+          "_anchor": "menu-13",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -1212,19 +1110,8 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
-        }
-      ]
-    },
-    "Repülőjegy.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+        },
         {
           "_tags": [
             "Theme"
@@ -1255,43 +1142,37 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMsg-box2",
           "_styles": {
-            "P": {
+            ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             }
           },
-          "_anchor": "extMsg-box2-k",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-23",
           "_params": {
-            "animText1": "Rendezvények",
-            "animText2": "Rendezvények",
-            "animText3": "Rendezvények",
-            "typeSpeed": "100",
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box2-bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>&nbsp;",
-          "text": "Ezen felül vállaljuk - amennyiben erre kedves utasaink igényt tartanak -, hogy telepítünk repülő-, túlsúly- és differenciajegyeket külföldre, a légitársaság által előírt áron. Munkatársaink készséggel adnak ár- és járatinformációt több várost érintő repülőjegy-foglalás esetén, valamint segítséget nyújtunk a fapados járatokra való foglalásban is.<br><br>A Go Global Travel (több mint 50.000 szálláshely – Európa, Észak- és Dél-Amerika, Ázsia) az AIC Travel Group (65.000 hotel világszerte) és a Hotelbeds Accommodation and Destinaton Services (2.500 hotel világszerte) nemzetközi szállásfoglaló rendszereken keresztül azonnal megtaláljuk az adott időpontban elérhető, legjobb, legolcsóbb és az igényeknek leginkább megfelelő szállásokat. Az egyszerű besorolású szálláshelyektől a luxusszállodákig különböző kategóriákban és különböző árfekvés mellett, egy alapvető minőségi szinthez ragaszkodva biztosítunk szálláslehetőségeket, kongresszusok, vásárok, kiállítások és kiemelt rendezvények ideje alatt is, az év bármely időszakában.<br>Egyéb szolgáltatások is előre lefoglalhatóak, amelyek elősegítik, hogy kikapcsolódása zökkenőmentesen teljen.<br><br>Transzfer<br>Utasaink részére mind Magyarországon, mind külföldön biztosítunk repülőtéri transzfereket. A megrendelő igényeinek megfelelően a taxitól a limuzin szervizen keresztül a turistabuszig bezárólag, minden kategóriában biztosítjuk ezen szolgáltatásunkat. Irodánk segítséget nyújt abban is, hogy pontos információt kapjon arról, hogy az adott repülőtérről hogyan érheti el a lehető legkedvezőbb áron és legrövidebb idő alatt (metró, vonat, busz) a választott szállodát.<br><br>Autóbérlés<br>Irodánk kapcsolatban áll a világ vezető, autóbérléssel foglalkozó cégeivel (Hertz, Budget), ezáltal biztosítva azt a lehetőséget, hogy az utas a számára legmegfelelőbb, különféle extrákkal felszerelt autótípust választhassa.<br>Biztosítás ügyintézés<br>Utasaink számára utasbiztosításokat kötünk (betegség-, baleset-, poggyászbiztosítás, útlemondási biztosítás). Cégünk az Európai Utazási Biztosítóval áll szerződésben.<br>Városnéző kirándulás<br>Külföldi partnereink segítségével módunkban áll ajánlani különböző városnéző kirándulásokat és egyéb eseményeken való (színház, opera, múzeum, kiállítás) részvételt.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#extFeatures12-a\" data-toolbar=\"-mbrBtnMove\">Szolgáltatásaink</a>"
+          "title": "<span style=\"font-weight: normal;\">Wingstravel Repülőjegy és szállásfoglalás</span>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-24",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ezt a tevékenységet a világ vezető légitársaságainak ügynökeként végezzük.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ennek eredményeként garantálni tudjuk, hogy a jegykiállítás napján, az adott&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">útvonalra, a legolcsóbb tarifán értékesítjük a repülőjegyeinket.</span></p>"
         },
         {
           "_styles": {
@@ -1341,7 +1222,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x78620.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x786.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -1368,7 +1249,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x78821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x788.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -1395,7 +1276,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78722.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1422,7 +1303,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x78723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1445,113 +1326,6 @@
           "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "color": "#c0a375"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-n",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/wings-265x76.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Vegye fel a kapcsolatot velünk.<br>Kérje ajánlatunkat. Kollégáink jelentkeznek.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+36 20 9431 899",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "N 47°29'18\" - E 19°03'27\"",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "support@wingtravel.hu",
-          "title1": "Szolgáltatásaink:",
-          "text5": "<li><a class=\"text-white\" href=\"#\">R</a>endezvények és konfernciák</li><li><a class=\"text-white\" href=\"#\">R</a>epülőjegy és szállásfoglalás</li><li><a class=\"text-white\" href=\"#\">N</a>yaralások</li><li><a class=\"text-white\" href=\"#\">O</a>utdoor</li><li><a class=\"text-white\" href=\"#\">I</a>ncentiv</li>",
-          "text6": "<strong>Kontakt</strong><br>Email:&nbsp;wingstravel@wingstravel.hu<br>Tel: +36 20 9431 899<br>Fax: +36 000 0000 002<br><br><br><strong>Cím</strong><br>H-1051 Budapest, Vigyázó F. u. 4.<br>Tel.: +36 20 9431 899<br>E-mail: wingstravel@wingstravel.hu<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kooltaip@gmail.com",
-            "alerts": {
-              "success": "Köszönjük levelét. Kollégáink hamarosan felkeresik."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Üzenet"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1675,96 +1449,29 @@
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "menu",
-          "_anchor": "menu-p",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wings-440x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>"
         }
       ]
     },
@@ -1807,43 +1514,37 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMsg-box2",
           "_styles": {
-            "P": {
+            ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             }
           },
-          "_anchor": "extMsg-box2-r",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25",
           "_params": {
-            "animText1": " Insentives",
-            "animText2": "Nyaralások",
-            "animText3": "Rendezvények",
-            "typeSpeed": "40",
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box2-bg.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.1,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
           },
-          "title": "Wingstravel&nbsp;",
-          "text": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. <br><br>Ez köszönhető corporate ügyfeleink maximális bizalmának, akik az évek során az incentive és üzleti utak által megtapasztalt szervezés ismeretében egyre több, nagy volumenű céges rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a Wings Travel hírnevét. <br><br>A konferenciák és rendezvények megszervezése esetén is ugyanazon értékeket tartjuk szem előtt, mint incentive és üzleti útjaink során: a minőséget, a kreativitást, az újszerűséget és a rugalmasságot, a helyszínek kiválasztásakor a lehető legnagyobb körültekintést és előkészítést. <br><br>Ezen irányelveknek köszönhetően ügyfélkörünk az évek során egyre bővült, és erre nagyon büszkék vagyunk.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#extFeatures12-a\" data-toolbar=\"-mbrBtnMove\">Szolgáltatásaink</a>"
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-26",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">részletekig kidolgozott, vendégeink igényét maximálisan figyelembe vevő&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">szolgáltatásokat nyújtsuk, amelynek során kiemelten fontos szempontnak tartjuk&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a kreativitást, az újszerűséget és a rugalmasságot.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Partnereink számára 1994. óta sikeresen szervezünk üzleti és incentive utakat, melyeket a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">megrendelő cég kívánságainak, igényeinek megfelelően, cégünkön belül, az e témában&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rendkívül tapasztalt részleg végzi. Útjaink színvonalát, szolgáltatásaink minőségét&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">munkatársaink szakmai tudása és lelkiismeretes munkája biztosítja.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A Wings Travel üzletpolitikája, hogy a minőségi szolgáltatás a legfontosabb.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Filozófiánk, hogy mind az incentive, mind az egyéb üzleti utak esetén a legapróbb részletekig&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">kidolgozott, vendégeink igényét maximálisan figyelembe vevő szolgáltatásokat nyújtsuk,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">amelynek során kiemelten fontos szempontnak tartjuk a kreativitást, az újszerűséget és a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rugalmasságot.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Elmondhatjuk magunkról, hogy a fenti filozófiánknak köszönhetően régi ügyfeleinkkel mind&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a mai napig sikeresen működünk együtt. Partnereink elsősorban olyan nemzetközi cégek, akik&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">az incentive utakat és rendezvényeket motivációs eszközként, hatékonyan alkalmazzák&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">vállalati stratégiájukban.</span></p>"
         },
         {
           "_styles": {
@@ -1893,7 +1594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x78620.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x786.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -1920,7 +1621,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x78821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x788.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -1947,7 +1648,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78722.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1974,7 +1675,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x78723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1997,113 +1698,6 @@
           "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "color": "#c0a375"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-u",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/wings-265x76.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Vegye fel a kapcsolatot velünk.<br>Kérje ajánlatunkat. Kollégáink jelentkeznek.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+36 20 9431 899",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "N 47°29'18\" - E 19°03'27\"",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "support@wingtravel.hu",
-          "title1": "Szolgáltatásaink:",
-          "text5": "<li><a class=\"text-white\" href=\"#\">R</a>endezvények és konfernciák</li><li><a class=\"text-white\" href=\"#\">R</a>epülőjegy és szállásfoglalás</li><li><a class=\"text-white\" href=\"#\">N</a>yaralások</li><li><a class=\"text-white\" href=\"#\">O</a>utdoor</li><li><a class=\"text-white\" href=\"#\">I</a>ncentiv</li>",
-          "text6": "<strong>Kontakt</strong><br>Email:&nbsp;wingstravel@wingstravel.hu<br>Tel: +36 20 9431 899<br>Fax: +36 000 0000 002<br><br><br><strong>Cím</strong><br>H-1051 Budapest, Vigyázó F. u. 4.<br>Tel.: +36 20 9431 899<br>E-mail: wingstravel@wingstravel.hu<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kooltaip@gmail.com",
-            "alerts": {
-              "success": "Köszönjük levelét. Kollégáink hamarosan felkeresik."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Üzenet"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2227,6 +1821,31 @@
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -2281,7 +1900,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-w",
+          "_anchor": "menu-13",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -2316,7 +1935,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         }
       ]
     },
@@ -2365,7 +1984,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-1f",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "52",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -2389,7 +2008,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-ausztria-cges-csapatpts-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-ausztria-cges-csapatpts-1400x786.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2409,7 +2028,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Síelés</span>",
           "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Outdoor.html\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#header3-1q\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -2418,9 +2037,9 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-1h",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "52",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2462,7 +2081,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Vitorlázás</span>",
           "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1w\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -2471,9 +2090,9 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-1i",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "52",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2514,26 +2133,272 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Rafting</span>",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+          "text": "A Wings Travel Utazásszervező Kft. extrém sport szekciója elsősorban Ausztriába, a Steiermark szívében fekvő saját rafting-központjába szervezi vadvízi túráit, amely Budapesttől 460 km-re, a Mar völgyében található. Mindemellett a Salzára és a Socára is szervezi raftingtúráit. Kiegészítésként kanyoning, hydrospeed programokkal színesítjük ajánlatunkat. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1s\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1p",
+          "_params": {
+            "imageSize": "52",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/magaslati-ktlplya-kalandtra-cges-csapatpts-1400x786.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Magaslati kötélpálya &nbsp; &nbsp;</span>",
+          "text": "<br>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1y\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>",
+          "_styles": {
+            "SPAN": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            },
+            "SPAN": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Síelés</span>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1r",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "",
+          "title": "<span style=\"font-weight: normal;\">Síelés</span>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content1-15",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Főbb célterületeink: Ausztria, Olaszország, Franciaország, Szlovénia, Szlovákia.&nbsp;</p><p><br></p><p>Szállását kívánságának megfelelő kategóriában lefoglaljuk (apartman, magánpanzió, szálloda), ezen kívül felnőtt ill. gyerek síbérletet, iskolák számára diákbérletet intézünk kedvezményes áron.&nbsp;</p><p><br></p><p>Cégünk szolgáltatása továbbá, hogy igény esetén magyar nyelvű síoktatót, síoktatókat is biztosít. Természetesen gondolunk azokra is, akik nem szeretnének síelni, így a számukra alternatív téli programokat ajánlunk (szánkózás, éjszakai fáklyás szánkózás, lovas szánozás, esti \"hütte\" program, kirándulás)&nbsp;</p><p><br></p><p>Igény esetén buszt biztosítunk (19, 32, 49 ill. 51 fős Scania Irizar luxusbuszok) a csoportok számára.&nbsp;</p><p><br></p><p>Tekintettel arra, hogy a sí egy veszélyes sport, mindenféleképpen ajánljuk a betegség-, baleset-, poggyászbiztosításunkat, amelyet irodánkban megköthet.&nbsp;</p><p><br></p><p>A teljesség igénye nélkül, íme néhány síterület Ausztriában:</p><p>· Murau</p><p>· Obertauern</p><p>· Lungau és térsége</p><p>· Bad Kleinkirchheim</p><p>· Mariazell</p><p>· Schladming</p><p>· Sölden</p><p><br></p><p>Rafting:</p><p><br></p><p>A Wings Travel Utazásszervező Kft. extrém sport szekciója elsősorban Ausztriába, a Steiermark szívében fekvő saját rafting-központjába szervezi vadvízi túráit, amely Budapesttől 460 km-re, a Mar völgyében található. Mindemellett a Salzára és a Socára is szervezi raftingtúráit. Kiegészítésként kanyoning, hydrospeed programokkal színesítjük ajánlatunkat.&nbsp;</p><p><br></p><p>Napjainkban az üzleti élet számos területén meghatározó tényező lehet egy olyan munkatársi gárda, amely az adott versenyhelyzetben a leghatékonyabb módon, jól összehangoltan működik. A közös evezés, a gyalogtúrák és az esti bulik mind erősítik a csapatszellemet, az aktív részvétel pedig nemcsak erő és energia felszabadítására, hanem kikapcsolódásra és a stressz levezetésére is kiválóan alkalmas.&nbsp;</p><p><br></p><p>De mi is az a rafting?&nbsp;</p><p><br></p><p>Pontosan lefordítva: vadvízi evezés.&nbsp;</p><p><br></p><p>Egy kicsit részletesebben: egy kellemes, izgalmas, élményekkel teli, vidám hétvége Ausztriában, a kalandvágyó és sportos vendégek számára. Ajánlatunk áprilistól októberig, hétvégékre és hétköznapokra is foglalható.</p><p><br></p><p>Utazás:</p><p>egyénileg (csoportok/cégek esetén buszt is biztosítunk)</p><p>Helyszín:</p><p>áprilisban, májusban és októberben a Salza folyón</p><p>júniustól szeptemberig a Mur folyón</p><p>Szállás:</p><p>** magánpanzió, *** vagy **** szálloda illetve apartmanok</p><p>Ellátás:</p><p>reggeli, félpanzió illetve teljes panzió</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p><p><br></p><p><br></p><p>Rafting információ&nbsp;</p><p><br></p><p><br></p><p>Felszerelés:</p><p>minden résztvevő számára komplett vadvízi felszerelést (titániumbetétes neoprén ruha és cipő, sisak és mellény) biztosítunk. A rafting 2-3 személyes kenukban és/vagy 6-10 fős raftokban történik, szakképzett túravezetőkkel.</p><p>Amit hozni kell:</p><p>fürdőruha, törölköző és meleg ruha a rafting után</p><p>Gyerekek:</p><p>A raftingon a gyerekek 7 éves kortól vehetnek részt, 14 éves korig csak szülői felügyelettel</p><p>Minimális létszám:</p><p>8 fő</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p><p>Vitorlázás:</p><p><br></p><p>Cégünk kezelésében 3 db 6 személyes, a legmodernebb felszereléssel ellátott kajütös versenyhajó áll, amelyekkel a Wings Travel csapata, szakképzett kapitányok irányításával cégek és baráti társaságok számára vitorlás programokat/túrákat szervez a Balatonon. A fent említett hajókon kívül, igény esetén egyéb kategóriájú vitorlásokat is tudunk biztosítani.&nbsp;</p><p><br></p><p>Ezen vitorlás programok igen népszerűek partnereink körében, akik a legkülönbözőbb variációkban ill. programokba beépítve veszik igénybe ezen szolgáltatásainkat. Ilyenek például: vitorlázás egy konkrét úticél megjelölésével, strandprogramok hajóval, vitorlásoktatás.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>· Magaslati kötélpálya</p><p>Helyszín:</p><p>szabadon választható</p><p><br></p><p><br></p><p>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni. A program tökéletes élményt és kihívást nyújt azon vendégek számára, akik a fizikai és mentális képességüket szeretnék fejleszteni, továbbá kiválóan alkalmas csapatépítésre és az alkalmazottak összekovácsolására is.&nbsp;</p><p><br></p><p>Kezdetben oktatóink egy előadást tartanak a mászópályáról, és bemutatják az akadályokat pontról pontra. Azon vendégek, akik úgy gondolják, hogy inkább kívülről szemlélik az eseményeket vagy éppen nem indultak még el a pályán, kifeszített sátrak alól, árnyékban követhetik figyelemmel a küzdő társaikat egy frissítő elfogyasztása mellett.</p><p><br></p><p>Célok:</p><p>leküzdeni a tériszony érzetét (már akinek van ilyen), javítani az egyensúlyérzéket, növelni az önbizalmat és a fizikai erőnlétet</p><p>Biztonság:</p><p>az akadályok leküzdésében szakképzett vezetőink segédkeznek, és minden ponton biztonsági felszereléseket alkalmazunk (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Időtartam:</p><p>kb. 2,5 - 3 óra</p><p>Ruházat:</p><p>szabadidőruha vagy ami nem gátolja a szabad mozgást, a lábbeli lapos talpú legyen, esetleg magas szárú bakancs</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk a helyszínen (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Akadályok:</p><p>7-8 méteres magasságban kell végigtornászni az igazán összetett, kötelekből és fából készült pályán</p><p><br></p><p><br></p>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text": "<p>Főbb célterületeink: Ausztria, Olaszország, Franciaország, Szlovénia, Szlovákia.&nbsp;</p><p><br></p><p>Szállását kívánságának megfelelő kategóriában lefoglaljuk (apartman, magánpanzió, szálloda), ezen kívül felnőtt ill. gyerek síbérletet, iskolák számára diákbérletet intézünk kedvezményes áron.&nbsp;</p><p><br></p><p>Cégünk szolgáltatása továbbá, hogy igény esetén magyar nyelvű síoktatót, síoktatókat is biztosít. Természetesen gondolunk azokra is, akik nem szeretnének síelni, így a számukra alternatív téli programokat ajánlunk (szánkózás, éjszakai fáklyás szánkózás, lovas szánozás, esti \"hütte\" program, kirándulás)&nbsp;</p><p><br></p><p>Igény esetén buszt biztosítunk (19, 32, 49 ill. 51 fős Scania Irizar luxusbuszok) a csoportok számára.&nbsp;</p><p><br></p><p>Tekintettel arra, hogy a sí egy veszélyes sport, mindenféleképpen ajánljuk a betegség-, baleset-, poggyászbiztosításunkat, amelyet irodánkban megköthet.&nbsp;</p><p><br></p><p>A teljesség igénye nélkül, íme néhány síterület Ausztriában:</p><p>· Murau</p><p>· Obertauern</p><p>· Lungau és térsége</p><p>· Bad Kleinkirchheim</p><p>· Mariazell</p><p>· Schladming</p><p>· Sölden</p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1w",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Vitorlázás</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Cégünk kezelésében 3 db 6 személyes, a legmodernebb felszereléssel ellátott kajütös versenyhajó áll, amelyekkel a Wings Travel csapata, szakképzett kapitányok irányításával cégek és baráti társaságok számára vitorlás programokat/túrákat szervez a Balatonon. A fent említett hajókon kívül, igény esetén egyéb kategóriájú vitorlásokat is tudunk biztosítani.&nbsp;</p><p><br></p><p>Ezen vitorlás programok igen népszerűek partnereink körében, akik a legkülönbözőbb variációkban ill. programokba beépítve veszik igénybe ezen szolgáltatásainkat. Ilyenek például: vitorlázás egy konkrét úticél megjelölésével, strandprogramok hajóval, vitorlásoktatás.</p><p>&nbsp;</p><p>Kalandtúra és magaslati kötélpálya:</p><p>&nbsp;</p><p>Célok:</p><p>elsősorban cégeket, csapatokat szeretnénk kimozdítani a természetbe, és összetartó erejüket növelni extrém körülmények között, a fizikai erő és a mentális készségek fejlesztésével egybekötve</p><p>Időpontok:</p><p>előzetes egyeztetés szerint</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk (sisak, beülő heveder, karabiner, hegymászó kötél)</p><p>Ruházat:</p><p>lapos talpú cipő vagy túrabakancs, szabadidő ruházat, ami nem gátolja a szabad mozgást</p><p>Időtartam:</p><p>kb. 4 - 5 óra</p><p>Utazás:</p><p>egyénileg</p><p>Részvétel:</p><p>mindenki, aki elmúlt 6 éves, de még nem töltötte be a 80. életévét, aki szeretne igazán izgalmas élményeket átélni, és maradandó emlékeket szerezni</p><p>Biztonság:</p><p>a feladatok végrehajtásánál szakképzett túravezetőink segédkeznek a biztonsági felszerelések teljes körű felhasználásával</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Rafting</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p>A Wings Travel Utazásszervező Kft. extrém sport szekciója elsősorban Ausztriába, a Steiermark szívében fekvő saját rafting-központjába szervezi vadvízi túráit, amely Budapesttől 460 km-re, a Mar völgyében található. Mindemellett a Salzára és a Socára is szervezi raftingtúráit. Kiegészítésként kanyoning, hydrospeed programokkal színesítjük ajánlatunkat.&nbsp;</p><p><br></p><p>Napjainkban az üzleti élet számos területén meghatározó tényező lehet egy olyan munkatársi gárda, amely az adott versenyhelyzetben a leghatékonyabb módon, jól összehangoltan működik. A közös evezés, a gyalogtúrák és az esti bulik mind erősítik a csapatszellemet, az aktív részvétel pedig nemcsak erő és energia felszabadítására, hanem kikapcsolódásra és a stressz levezetésére is kiválóan alkalmas.&nbsp;</p><p><br></p><p>De mi is az a rafting?&nbsp;</p><p><br></p><p>Pontosan lefordítva: vadvízi evezés.&nbsp;</p><p><br></p><p>Egy kicsit részletesebben: egy kellemes, izgalmas, élményekkel teli, vidám hétvége Ausztriában, a kalandvágyó és sportos vendégek számára. Ajánlatunk áprilistól októberig, hétvégékre és hétköznapokra is foglalható.</p><p><br></p><p>Utazás:</p><p>egyénileg (csoportok/cégek esetén buszt is biztosítunk)</p><p>Helyszín:</p><p>áprilisban, májusban és októberben a Salza folyón</p><p>júniustól szeptemberig a Mur folyón</p><p>Szállás:</p><p>** magánpanzió, *** vagy **** szálloda illetve apartmanok</p><p>Ellátás:</p><p>reggeli, félpanzió illetve teljes panzió</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p><p><br></p><p><br></p><p>Rafting információ&nbsp;</p><p><br></p><p><br></p><p>Felszerelés:</p><p>minden résztvevő számára komplett vadvízi felszerelést (titániumbetétes neoprén ruha és cipő, sisak és mellény) biztosítunk. A rafting 2-3 személyes kenukban és/vagy 6-10 fős raftokban történik, szakképzett túravezetőkkel.</p><p>Amit hozni kell:</p><p>fürdőruha, törölköző és meleg ruha a rafting után</p><p>Gyerekek:</p><p>A raftingon a gyerekek 7 éves kortól vehetnek részt, 14 éves korig csak szülői felügyelettel</p><p>Minimális létszám:</p><p>8 fő</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1y",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\">Magaslati kötélpálya</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Helyszín:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">szabadon választható</span></p><p><br></p><p>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni. A program tökéletes élményt és kihívást nyújt azon vendégek számára, akik a fizikai és mentális képességüket szeretnék fejleszteni, továbbá kiválóan alkalmas csapatépítésre és az alkalmazottak összekovácsolására is.&nbsp;</p><p><br></p><p>Kezdetben oktatóink egy előadást tartanak a mászópályáról, és bemutatják az akadályokat pontról pontra. Azon vendégek, akik úgy gondolják, hogy inkább kívülről szemlélik az eseményeket vagy éppen nem indultak még el a pályán, kifeszített sátrak alól, árnyékban követhetik figyelemmel a küzdő társaikat egy frissítő elfogyasztása mellett.</p><p><br></p><p>Célok:</p><p>leküzdeni a tériszony érzetét (már akinek van ilyen), javítani az egyensúlyérzéket, növelni az önbizalmat és a fizikai erőnlétet</p><p>Biztonság:</p><p>az akadályok leküzdésében szakképzett vezetőink segédkeznek, és minden ponton biztonsági felszereléseket alkalmazunk (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Időtartam:</p><p>kb. 2,5 - 3 óra</p><p>Ruházat:</p><p>szabadidőruha vagy ami nem gátolja a szabad mozgást, a lábbeli lapos talpú legyen, esetleg magas szárú bakancs</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk a helyszínen (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Akadályok:</p><p>7-8 méteres magasságban kell végigtornászni az igazán összetett, kötelekből és fából készült pályán</p><p>&nbsp;</p>"
         },
         {
           "_styles": {
@@ -2583,7 +2448,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x78620.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x78628.jpg",
               "link": "Nyaralások.html",
               "alt": "",
               "title": "",
@@ -2610,7 +2475,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x78821.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-1400x78729.jpg",
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
@@ -2637,8 +2502,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78722.jpg",
-              "link": "",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78730.jpg",
+              "link": "Rendezvény.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2664,8 +2529,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x78723.jpg",
-              "link": "",
+              "src": "@PROJECT_PATH@/assets/images/sels-1400x78731.jpg",
+              "link": "Outdoor.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2687,113 +2552,6 @@
           "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "color": "#c0a375"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-u",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/wings-265x76.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Vegye fel a kapcsolatot velünk.<br>Kérje ajánlatunkat. Kollégáink jelentkeznek.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+36 20 9431 899",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "N 47°29'18\" - E 19°03'27\"",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "support@wingtravel.hu",
-          "title1": "Szolgáltatásaink:",
-          "text5": "<li><a class=\"text-white\" href=\"#\">R</a>endezvények és konfernciák</li><li><a class=\"text-white\" href=\"#\">R</a>epülőjegy és szállásfoglalás</li><li><a class=\"text-white\" href=\"#\">N</a>yaralások</li><li><a class=\"text-white\" href=\"#\">O</a>utdoor</li><li><a class=\"text-white\" href=\"#\">I</a>ncentiv</li>",
-          "text6": "<strong>Kontakt</strong><br>Email:&nbsp;wingstravel@wingstravel.hu<br>Tel: +36 20 9431 899<br>Fax: +36 000 0000 002<br><br><br><strong>Cím</strong><br>H-1051 Budapest, Vigyázó F. u. 4.<br>Tel.: +36 20 9431 899<br>E-mail: wingstravel@wingstravel.hu<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kooltaip@gmail.com",
-            "alerts": {
-              "success": "Köszönjük levelét. Kollégáink hamarosan felkeresik."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Üzenet"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ajánlatkérés</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2917,6 +2675,31 @@
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -3006,7 +2789,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         }
       ]
     }
