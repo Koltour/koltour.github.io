@@ -697,17 +697,13 @@ h6,
 #header3-17 .mbr-section-subtitle {
   text-align: center;
 }
-#extFeatures12-20 .card-number {
-  color: #c0a375;
-}
-#extFeatures12-20 .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-20 .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-20 H4 {
+#extFeatures9-2d H4 {
+  text-align: left;
   color: #ffffff;
+}
+#extFeatures9-2d P {
+  color: #ffffff;
+  text-align: left;
 }
 #extTestimonials5-9 .mbr-section-subtitle {
   color: #ffffff;
@@ -715,8 +711,12 @@ h6,
 #extTestimonials5-9 .mbr-section-title {
   color: #ffffff;
 }
-#footer1-1n P {
-  text-align: right;
+#social-buttons3-2f .mbr-section-title,
+#social-buttons3-2f .btn-social {
+  color: #fff;
+}
+#social-buttons3-2f .mbr-section-title SPAN {
+  font-size: 32px;
 }
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
@@ -779,6 +779,9 @@ h6,
 #menu-5 .link[aria-expanded="true"],
 #menu-5 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#extFooter1-2e UL {
+  color: #ffffff;
 }
 
 #menu-13 .hide-buttons .nav-btn {
@@ -1103,6 +1106,9 @@ h6,
 }
 #extFeatures9-2b P {
   color: #ffffff;
+}
+#extFeatures9-2b SPAN {
+  text-align: left;
 }
 #extTestimonials5-12 .mbr-section-subtitle {
   color: #ffffff;
