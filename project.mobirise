@@ -519,45 +519,6 @@
             "paddingBottom": "0",
             "slides": [
               {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/youtube-in-icon-256x256.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/yootheme-social-bookmark-social-facebook-button-blue-1-256x256.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-128x128.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
                 "active": true,
                 "media": {
                   "image": {
@@ -574,33 +535,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logo-128x128.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
                     "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x128.png",
-                    "link": "",
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplast-256x256.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -639,7 +574,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raifraisen-en-362x75.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x256.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -652,7 +587,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/sh-f20e6f8e-176a-50d8-f773-d8755ad5d448-logo-220x200-220x200.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x225.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -665,7 +600,150 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/youtube-in-icon-256x256.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x125.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x141.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x581.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x112.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x125.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x112.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x225.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x347.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x256.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x200.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x400.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -783,6 +861,14 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "contacts1-1o",
           "_params": {
             "paddingTop": "1",
@@ -814,15 +900,7 @@
           },
           "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
           "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
-          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "font-size": "18px"
-            }
-          }
+          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
         },
         {
           "_inherit": "social-buttons1",
@@ -1218,7 +1296,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1277,7 +1355,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33722.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1336,7 +1414,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1395,7 +1473,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33724.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1454,7 +1532,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33725.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2105,7 +2183,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2164,7 +2242,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33722.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2223,7 +2301,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2282,7 +2360,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33724.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2341,7 +2419,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33725.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2854,7 +2932,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2913,7 +2991,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33722.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2972,7 +3050,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3031,7 +3109,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33724.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3090,7 +3168,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33725.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3992,18 +4070,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
           "_anchor": "buttons1-2l",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Outdoor.html#msg-box5-1f\" data-toolbar=\"-mbrBtnMove\">Vissza a menühöz</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "13px"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Outdoor.html#msg-box5-1f\" data-toolbar=\"-mbrBtnMove\">Vissza a menühöz</a>"
         },
         {
           "_styles": {
@@ -4223,7 +4301,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4282,7 +4360,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33722.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4341,7 +4419,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4400,7 +4478,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33724.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4459,7 +4537,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33725.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
