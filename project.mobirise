@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "index.html",
+    "currentPage": "Outdoor.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
       "email": "kooltaip@gmail.com"
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 123,
+    "uniqCompNum": 132,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -149,7 +149,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1030,7 +1030,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1179,7 +1179,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "_tags": [
@@ -1267,13 +1267,13 @@
               "text-align": "left"
             }
           },
-          "_anchor": "extFeatures9-2o",
+          "_anchor": "extFeatures9-3j",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/jumbotron.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/jumbotron_1.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1296,7 +1296,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x33727.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1355,7 +1355,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33728.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1414,7 +1414,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33729.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1473,7 +1473,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33730.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1532,7 +1532,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33731.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1591,7 +1591,7 @@
           },
           "media6": {
             "image": {
-              "src": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/face4.png",
+              "src": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/face4_1.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1663,13 +1663,13 @@
             "autoplay": true,
             "timeout": 5,
             "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "slides": [
               {
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12832.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1682,7 +1682,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12833.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1695,7 +1695,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25634.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1708,7 +1708,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15435.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1721,7 +1721,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25636.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1734,7 +1734,163 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22537.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12538.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14139.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58140.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11241.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12542.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11243.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22544.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34745.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25646.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20047.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40048.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15435.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1746,7 +1902,7 @@
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying_1.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1759,10 +1915,10 @@
             "showTitle": true,
             "showSubtitle": true,
             "showBullets": true,
-            "visibleSlides": "5",
+            "visibleSlides": "6",
             "showArrows": true
           },
-          "_anchor": "extTestimonials5-2p",
+          "_anchor": "extTestimonials5-3k",
           "title": "<span style=\"font-weight: normal;\">Partnereink</span>",
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
@@ -2074,7 +2230,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "_tags": [
@@ -2183,7 +2339,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2242,7 +2398,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33728.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2301,7 +2457,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33729.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2360,7 +2516,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33730.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2419,7 +2575,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33731.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2550,13 +2706,13 @@
             "autoplay": true,
             "timeout": 5,
             "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "slides": [
               {
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12832.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2569,7 +2725,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12833.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2582,7 +2738,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25634.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2595,7 +2751,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15435.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2608,7 +2764,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25636.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2621,7 +2777,163 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22537.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12538.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14139.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58140.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11241.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12542.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11243.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22544.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34745.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25646.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20047.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40048.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15435.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2633,7 +2945,7 @@
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying_1.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2646,10 +2958,10 @@
             "showTitle": true,
             "showSubtitle": true,
             "showBullets": true,
-            "visibleSlides": "5",
+            "visibleSlides": "6",
             "showArrows": true
           },
-          "_anchor": "extTestimonials5-2s",
+          "_anchor": "extTestimonials5-3l",
           "title": "<span style=\"font-weight: normal;\">Partnereink</span>",
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
@@ -2851,7 +3163,7 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span><br><span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
-          "text": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. <br><br><br>",
+          "text": "A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Wings Travel hírnevét.&nbsp;(kérlek&nbsp;</span><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -2885,7 +3197,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ez köszönhető corporate ügyfeleink maximális bizalmának, akik az évek során az incentive és üzleti utak által megtapasztalt szervezés ismeretében egyre több, nagy volumenű céges rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a Wings Travel hírnevét.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A konferenciák és rendezvények megszervezése esetén is ugyanazon értékeket tartjuk szem előtt, mint incentive és üzleti útjaink során: a minőséget, a kreativitást, az újszerűséget és a rugalmasságot, a helyszínek kiválasztásakor a lehető legnagyobb körültekintést és előkészítést.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ezen irányelveknek köszönhetően ügyfélkörünk az évek során egyre bővült, és erre nagyon büszkék vagyunk.</span></p>"
+          "text": "<p>A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wings Travel hírnevét.&nbsp;(kérlek et tedd fel a képhez)&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">A konferenciák és rendezvények megszervezése esetén is ugyanazon értékeket tartjuk szem</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">előtt, mint incentive és üzleti útjaink során: a minőséget, a kreativitást, az újszerűséget és a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rugalmasságot, a helyszínek kiválasztásakor a lehető legnagyobb körültekintést és&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">előkészítést.&nbsp;Ezen irányelveknek köszönhetően ügyfélkörünk az évek során egyre bővült, és&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">erre nagyon büszkék vagyunk.</span></p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2932,7 +3244,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2991,7 +3303,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33728.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3050,7 +3362,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33729.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3109,7 +3421,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33730.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3168,7 +3480,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33731.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3299,13 +3611,13 @@
             "autoplay": true,
             "timeout": 5,
             "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "slides": [
               {
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12832.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3318,7 +3630,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12833.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3331,7 +3643,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25634.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3344,7 +3656,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15435.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3357,7 +3669,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25636.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3370,7 +3682,163 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22537.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12538.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14139.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58140.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11241.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12542.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11243.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22544.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34745.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25646.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20047.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40048.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15435.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3382,7 +3850,7 @@
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying_1.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3395,10 +3863,10 @@
             "showTitle": true,
             "showSubtitle": true,
             "showBullets": true,
-            "visibleSlides": "5",
+            "visibleSlides": "6",
             "showArrows": true
           },
-          "_anchor": "extTestimonials5-2v",
+          "_anchor": "extTestimonials5-3m",
           "title": "<span style=\"font-weight: normal;\">Partnereink</span>",
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
@@ -3573,7 +4041,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "_inherit": "social-buttons1",
@@ -3738,7 +4206,7 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span><br><span style=\"font-weight: normal;\">Outdoor</span>",
-          "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;<br>",
+          "text": "Cégünk 1994. óta sikeresen szervez sí, rafting és kalandtúrákat valamint vitorlás programokat<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">mind cégek, mind egyéni utasok számára. Ezen outdoor programok igen népszerűek partnereink</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">körében.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -3844,7 +4312,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Vitorlázás</span>",
-          "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
+          "text": "Cégünk kezelésében itthon több, a legmodernebb felszereléssel ellátott kajütös versenyhajó<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">áll.&nbsp;</span>A Wings Travel csapata, szakképzett kapitányok irányításával cégek és baráti társaságok<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">számára vitorlás programokat/túrákat szervez a Balatonon és az Adrián.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1w\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
@@ -4069,68 +4537,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "buttons1-2l",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Outdoor.html#msg-box5-1f\" data-toolbar=\"-mbrBtnMove\">Vissza a menühöz</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-2n",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubTitle": true
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Iratkozzon fel!",
-          "form": {
-            "action": "kooltaip@gmail.com",
-            "alerts": {
-              "success": "Köszönjük a jelentkezést, kollégánk hamarosan megkeresi."
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "írja be az Email címét"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-1w",
           "_params": {
@@ -4168,7 +4574,37 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Cégünk kezelésében 3 db 6 személyes, a legmodernebb felszereléssel ellátott kajütös versenyhajó áll, amelyekkel a Wings Travel csapata, szakképzett kapitányok irányításával cégek és baráti társaságok számára vitorlás programokat/túrákat szervez a Balatonon. A fent említett hajókon kívül, igény esetén egyéb kategóriájú vitorlásokat is tudunk biztosítani.&nbsp;</p><p><br></p><p>Ezen vitorlás programok igen népszerűek partnereink körében, akik a legkülönbözőbb variációkban ill. programokba beépítve veszik igénybe ezen szolgáltatásainkat. Ilyenek például: vitorlázás egy konkrét úticél megjelölésével, strandprogramok hajóval, vitorlásoktatás.</p><p>&nbsp;</p><p>Kalandtúra és magaslati kötélpálya:</p><p>&nbsp;</p><p>Célok:</p><p>elsősorban cégeket, csapatokat szeretnénk kimozdítani a természetbe, és összetartó erejüket növelni extrém körülmények között, a fizikai erő és a mentális készségek fejlesztésével egybekötve</p><p>Időpontok:</p><p>előzetes egyeztetés szerint</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk (sisak, beülő heveder, karabiner, hegymászó kötél)</p><p>Ruházat:</p><p>lapos talpú cipő vagy túrabakancs, szabadidő ruházat, ami nem gátolja a szabad mozgást</p><p>Időtartam:</p><p>kb. 4 - 5 óra</p><p>Utazás:</p><p>egyénileg</p><p>Részvétel:</p><p>mindenki, aki elmúlt 6 éves, de még nem töltötte be a 80. életévét, aki szeretne igazán izgalmas élményeket átélni, és maradandó emlékeket szerezni</p><p>Biztonság:</p><p>a feladatok végrehajtásánál szakképzett túravezetőink segédkeznek a biztonsági felszerelések teljes körű felhasználásával</p>"
+          "text": "<p>Cégünk kezelésében itthon több, a legmodernebb felszereléssel ellátott kajütös versenyhajó&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">áll. A Wings Travel csapata, szakképzett kapitányok irányításával cégek és baráti társaságok&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">számára vitorlás programokat/túrákat szervez a Balatonon és az Adrián. A fent említett&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">hajókon kívül, igény esetén egyéb kategóriájú vitorlásokat is tudunk biztosítani.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ezen vitorlás programok igen népszerűek partnereink körében, akik a legkülönbözőbb&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">variációkban ill. programokba beépítve veszik igénybe ezen szolgáltatásainkat. Ilyenek&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">például: vitorlázás egy konkrét úticél megjelölésével, strandprogramok hajóval,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">vitorlásoktatás.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box5-1f\" data-toolbar=\"-mbrBtnMove\">Vissza</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
         },
         {
           "_tags": [
@@ -4211,7 +4647,37 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p>A Wings Travel Utazásszervező Kft. extrém sport szekciója elsősorban Ausztriába, a Steiermark szívében fekvő saját rafting-központjába szervezi vadvízi túráit, amely Budapesttől 460 km-re, a Mar völgyében található. Mindemellett a Salzára és a Socára is szervezi raftingtúráit. Kiegészítésként kanyoning, hydrospeed programokkal színesítjük ajánlatunkat.&nbsp;</p><p><br></p><p>Napjainkban az üzleti élet számos területén meghatározó tényező lehet egy olyan munkatársi gárda, amely az adott versenyhelyzetben a leghatékonyabb módon, jól összehangoltan működik. A közös evezés, a gyalogtúrák és az esti bulik mind erősítik a csapatszellemet, az aktív részvétel pedig nemcsak erő és energia felszabadítására, hanem kikapcsolódásra és a stressz levezetésére is kiválóan alkalmas.&nbsp;</p><p><br></p><p>De mi is az a rafting?&nbsp;</p><p><br></p><p>Pontosan lefordítva: vadvízi evezés.&nbsp;</p><p><br></p><p>Egy kicsit részletesebben: egy kellemes, izgalmas, élményekkel teli, vidám hétvége Ausztriában, a kalandvágyó és sportos vendégek számára. Ajánlatunk áprilistól októberig, hétvégékre és hétköznapokra is foglalható.</p><p><br></p><p>Utazás:</p><p>egyénileg (csoportok/cégek esetén buszt is biztosítunk)</p><p>Helyszín:</p><p>áprilisban, májusban és októberben a Salza folyón</p><p>júniustól szeptemberig a Mur folyón</p><p>Szállás:</p><p>** magánpanzió, *** vagy **** szálloda illetve apartmanok</p><p>Ellátás:</p><p>reggeli, félpanzió illetve teljes panzió</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p><p><br></p><p><br></p><p>Rafting információ&nbsp;</p><p><br></p><p><br></p><p>Felszerelés:</p><p>minden résztvevő számára komplett vadvízi felszerelést (titániumbetétes neoprén ruha és cipő, sisak és mellény) biztosítunk. A rafting 2-3 személyes kenukban és/vagy 6-10 fős raftokban történik, szakképzett túravezetőkkel.</p><p>Amit hozni kell:</p><p>fürdőruha, törölköző és meleg ruha a rafting után</p><p>Gyerekek:</p><p>A raftingon a gyerekek 7 éves kortól vehetnek részt, 14 éves korig csak szülői felügyelettel</p><p>Minimális létszám:</p><p>8 fő</p><p>Program:</p><p>a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)</p><p>a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</p><p><br></p>"
+          "text": "<p><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></p><p>A Wings Travel Utazásszervező Kft. extrém sport szekciója elsősorban Ausztriába, a&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Steiermark szívében fekvő rafting-központokba szervezi vadvízitúráit, amely Budapesttől 460&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">km-re, a Mur völgyében és a Salzán található. Mindemellett a Socára is szervezünk túrákat.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Kiegészítésként kanyoning, hydrospeed programokkal színesítjük ajánlatunkat.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Napjainkban az üzleti élet számos területén meghatározó tényező lehet egy olyan munkatársi&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">gárda, amely az adott versenyhelyzetben a leghatékonyabb módon, jól összehangoltan&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">működik. A közös evezés, a gyalogtúrák és az esti bulik mind erősítik a csapatszellemet, az&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">aktív részvétel pedig nemcsak erő és energia felszabadítására, hanem kikapcsolódásra és a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">stressz levezetésére is kiválóan alkalmas.&nbsp;</span></p><p><br></p><p><b>De mi is az a rafting?&nbsp;</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Pontosan lefordítva: vadvízi evezés.&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Egy kicsit részletesebben: egy kellemes, izgalmas, élményekkel teli, vidám hétvége</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ausztriában, a kalandvágyó és sportos vendégek számára. Ajánlatunk áprilistól októberig,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">hétvégékre és hétköznapokra is foglalható.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Utazás:&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">egyénileg (csoportok/cégek esetén buszt is biztosítunk)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Helyszín: áprilisban, májusban és októberben a Salza folyón júniustól szeptemberig a Mur&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">folyón</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Szállás: ** magánpanzió, *** vagy **** szálloda illetve apartmanok</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ellátás: reggeli, félpanzió illetve teljes panzió</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Program: a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</span></p><p><br></p><p><b>Rafting információ&nbsp;</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Felszerelés: minden résztvevő számára komplett vadvízi felszerelést (titániumbetétes neoprén&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ruha és cipő, sisak és mellény) biztosítunk. A rafting 2-3 személyes kenukban és/vagy 6-10&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">fős raftokban történik, szakképzett túravezetőkkel.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Amit hozni kell: fürdőruha, törölköző és meleg ruha a rafting után</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Gyerekek: A raftingon a gyerekek 7 éves kortól vehetnek részt, 14 éves korig csak szülői&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">felügyelettel</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Minimális létszám: 8 fő</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Program: a Mur folyón 2 vízreszállás (2 X kb. 2,5 - 3 óra, Tamsweg-Predlitz szakaszon)&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a Salzán 2 vízreszállás (2 X kb. 2,5 - 3 óra, Wildalpen-Palfau szakaszon)</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box5-1f\" data-toolbar=\"-mbrBtnMove\">Vissza</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
         },
         {
           "_tags": [
@@ -4254,7 +4720,37 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Helyszín:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">szabadon választható</span></p><p><br></p><p>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni. A program tökéletes élményt és kihívást nyújt azon vendégek számára, akik a fizikai és mentális képességüket szeretnék fejleszteni, továbbá kiválóan alkalmas csapatépítésre és az alkalmazottak összekovácsolására is.&nbsp;</p><p><br></p><p>Kezdetben oktatóink egy előadást tartanak a mászópályáról, és bemutatják az akadályokat pontról pontra. Azon vendégek, akik úgy gondolják, hogy inkább kívülről szemlélik az eseményeket vagy éppen nem indultak még el a pályán, kifeszített sátrak alól, árnyékban követhetik figyelemmel a küzdő társaikat egy frissítő elfogyasztása mellett.</p><p><br></p><p>Célok:</p><p>leküzdeni a tériszony érzetét (már akinek van ilyen), javítani az egyensúlyérzéket, növelni az önbizalmat és a fizikai erőnlétet</p><p>Biztonság:</p><p>az akadályok leküzdésében szakképzett vezetőink segédkeznek, és minden ponton biztonsági felszereléseket alkalmazunk (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Időtartam:</p><p>kb. 2,5 - 3 óra</p><p>Ruházat:</p><p>szabadidőruha vagy ami nem gátolja a szabad mozgást, a lábbeli lapos talpú legyen, esetleg magas szárú bakancs</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk a helyszínen (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Akadályok:</p><p>7-8 méteres magasságban kell végigtornászni az igazán összetett, kötelekből és fából készült pályán</p><p>&nbsp;</p>"
+          "text": "<p>Helyszín:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">szabadon választható</span></p><p><br></p><p>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni. A program tökéletes élményt és kihívást nyújt azon vendégek számára, akik a fizikai és mentális képességüket szeretnék fejleszteni, továbbá kiválóan alkalmas csapatépítésre és az alkalmazottak összekovácsolására is.&nbsp;</p><p><br></p><p>Kezdetben oktatóink egy előadást tartanak a mászópályáról, és bemutatják az akadályokat pontról pontra. Azon vendégek, akik úgy gondolják, hogy inkább kívülről szemlélik az eseményeket vagy éppen nem indultak még el a pályán, kifeszített sátrak alól, árnyékban követhetik figyelemmel a küzdő társaikat egy frissítő elfogyasztása mellett.</p><p><br></p><p>Célok:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">leküzdeni a tériszony érzetét (már akinek van ilyen), javítani az egyensúlyérzéket, növelni az önbizalmat és a fizikai erőnlétet</span></p><p>Biztonság:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">az akadályok leküzdésében szakképzett vezetőink segédkeznek, és minden ponton biztonsági felszereléseket alkalmazunk (sisak, beülő heveder, karabiner, biztosító kötél)</span></p><p>Időtartam:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">kb. 2,5 - 3 óra</span></p><p>Ruházat:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">szabadidőruha vagy ami nem gátolja a szabad mozgást, a lábbeli lapos talpú legyen, esetleg magas szárú bakancs</span></p><p>Felszerelés:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">minden felszerelést mi biztosítunk a helyszínen (sisak, beülő heveder, karabiner, biztosító kötél)</span></p><p>Akadályok:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">7-8 méteres magasságban kell végigtornászni az igazán összetett, kötelekből és fából készült pályán</span></p><p>&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box5-1f\" data-toolbar=\"-mbrBtnMove\">Vissza</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -4301,7 +4797,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4360,7 +4856,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33728.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4419,7 +4915,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33729.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4478,7 +4974,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33730.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4537,7 +5033,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33731.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4668,13 +5164,13 @@
             "autoplay": true,
             "timeout": 5,
             "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "slides": [
               {
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12832.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4687,7 +5183,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12833.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4700,7 +5196,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25634.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4713,7 +5209,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15435.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4726,7 +5222,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25636.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4739,7 +5235,163 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22537.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12538.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14139.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58140.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11241.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12542.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11243.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22544.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34745.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25646.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20047.jpg",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40048.png",
+                    "link": "",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15435.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4751,7 +5403,7 @@
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying_1.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -4764,10 +5416,10 @@
             "showTitle": true,
             "showSubtitle": true,
             "showBullets": true,
-            "visibleSlides": "5",
+            "visibleSlides": "6",
             "showArrows": true
           },
-          "_anchor": "extTestimonials5-31",
+          "_anchor": "extTestimonials5-3n",
           "title": "<span style=\"font-weight: normal;\">Partnereink</span>",
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
@@ -5068,7 +5720,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         }
       ]
     },
@@ -5285,7 +5937,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         }
       ]
     }
