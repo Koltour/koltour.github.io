@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "Rendezvény.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
       "email": "kooltaip@gmail.com"
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 93,
+    "uniqCompNum": 121,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -110,6 +110,16 @@
             "Extension"
           ],
           "_name": "extFeatures9",
+          "_styles": {
+            "H4": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
           "_anchor": "extFeatures9-2d",
           "_params": {
             "paddingTop": 2,
@@ -151,7 +161,7 @@
           },
           "title1": "<span style=\"font-weight: normal;\">Incentive</span>",
           "subtitle1": "Programmer",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": " Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -486,16 +496,6 @@
               "color": "#000",
               "family": "socicon"
             }
-          },
-          "_styles": {
-            "H4": {
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "left"
-            }
           }
         },
         {
@@ -734,9 +734,17 @@
               "newWindow": false
             }
           },
-          "text1": "<strong>Address</strong><br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
-          "text2": "<strong>Contacts</strong><br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
-          "text3": "<p><strong>Linkek</strong><br>Repülőjegy foglalás<br>Konferenciák</p>"
+          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_inherit": "social-buttons1",
@@ -745,7 +753,7 @@
               "color": "#fff"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "32px"
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -770,7 +778,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">SHARE THIS PAGE!</span>"
+          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
         },
         {
           "_styles": {
@@ -866,7 +874,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -874,6 +882,11 @@
             "Extension"
           ],
           "_name": "extFooter1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "extFooter1-2e",
           "_params": {
             "progress": 50,
@@ -907,12 +920,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
-          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>",
-          "_styles": {
-            "UL": {
-              "color": "#ffffff"
-            }
-          }
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
         }
       ]
     },
@@ -1015,7 +1023,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "_tags": [
@@ -1088,157 +1096,398 @@
           "text": "<p>Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! Hogyan tesszük ezt?&nbsp;Másképp, mint konkurenseink!&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Nálunk nem előre elkészített ajánlatokból kell választania. Mi az Ön elképzeléseit és igényeit maximálisan figyelembe véve, testre&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">szabott ajánlatokat készítünk. Az utazás részleteinek kidolgozása során megtervezzük a legoptimálisabb útvonalat és kiválasztjuk </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">legmegfelelőbb szállást, továbbá fakultatív kirándulásokat ajánlunk, hogy még színesebbé tehesse pihenését. Célunk, hogy&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">utasaink elégedetten, tele élményekkel térjenek haza. Irodánk különböző típusú utazási kínálataiból választhat, a tengerparti nyaralásoktól a kombinált és körutakon át, egészen a városlátogatásokig. A fenti utakat a teljesség igénye nélkül a következő országokba szervezzük: Ausztria, Csehország, Görögország, Horvátország, Olaszország, Portugália, Spanyolország. Ezen kívül figyelmükbe ajánljuk egzotikus úti céljainkat is, mint Argentína, Brazília, Bali, Kína, Kuba, Mexikó, Tanzánia, Thaiföld.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Amennyiben ragaszkodik valamely más utazási iroda ajánlatához, úgy azt nálunk is befoglalhatja, hiszen a legnagyobb utazásszervezők ügynökeként is működünk. &nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ügyfeleink megelégedése továbbra is mindennél fontosabb számunkra, és reméljük, hogy ezt hamarosan Önnek is megmutathatjuk.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>"
         },
         {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-1k",
+          "_name": "extFeatures9",
+          "_styles": {
+            "H4": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extFeatures9-2o",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "numbersColor": "@primaryColor",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures4_bg.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "showTitle": false,
+            "showSubtitle": false,
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showIcons": false
           },
+          "title": "OUR TEAM",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x786.jpg",
-              "link": "Nyaralások.html",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number1": "01",
-          "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
-          "subtitle1": "<span style=\"font-style: normal;\">Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;</span>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title1": "<span style=\"font-weight: normal;\">Incentive</span>",
+          "subtitle1": "Programmer",
+          "caption1": " Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
           "media2": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x788.jpg",
+              "link": "Rendezvény.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
+          "subtitle2": "SEO",
+          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number2": "02",
-          "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
-          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
+          "title3": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
+          "subtitle3": "Manager",
+          "caption3": "Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.",
+          "media3_1": {
+            "iconFont": {
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x787.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
             }
           },
-          "number3": "03",
-          "title3": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
-          "subtitle3": "<span style=\"font-style: normal;\">Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;</span>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
           "media4": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x787.jpg",
+              "link": "Nyaralások.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<span style=\"font-weight: normal;\">Nyaralások</span>",
+          "subtitle4": "Reception",
+          "caption4": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! ",
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
               "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number4": "04",
-          "title4": "<span style=\"font-weight: normal;\">Outdoor</span>",
-          "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
+          "subtitle5": "Sales",
+          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Daniel Walker",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1264,7 +1513,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/15.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1277,7 +1526,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/26.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1290,7 +1539,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/37.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1303,7 +1552,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/48.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1316,7 +1565,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/59.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1329,7 +1578,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/37.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1341,7 +1590,7 @@
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1357,24 +1606,108 @@
             "visibleSlides": "5",
             "showArrows": true
           },
-          "_anchor": "extTestimonials5-h",
-          "title": "Partnereink",
+          "_anchor": "extTestimonials5-2p",
+          "title": "<span style=\"font-weight: normal;\">Partnereink</span>",
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm3",
+          "_anchor": "extForm3-37",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extForm1_bg.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": false,
+            "googleMap": {
+              "address": "H-1051 Budapest, Vigyázó F. u. 4.",
+              "placeId": "ChIJ8errvBXcQUcRquJG737HAfk",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "showTitle": false,
+            "showContacts": false,
+            "showIcons": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-white btn-white-outline\">KAPCSOLAT</a>"
+          },
+          "title": "<span style=\"font-weight: normal;\">Kapcsolat</span>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Kapcsolat</span>",
+          "subTitle1": "Ready for offers & cooperation",
+          "text1": "Phone: +1 (0) 000 0000 001 <br> Email: youremail@mail.com",
+          "form": {
+            "action": "kooltaip@gmail.com",
+            "alerts": {
+              "success": "Köszönjük az érdeklődését. Munkatársunk hamarosan jelentkezik."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Név*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Üzenet"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Küldje el üzenetét</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
+          "_name": "contacts1",
           "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
             "P": {
-              "text-align": "right"
+              "font-size": "18px"
             }
           },
-          "_anchor": "footer1-1n",
+          "_anchor": "contacts1-1o",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1382,9 +1715,107 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#3C3C3C"
           },
-          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>"
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "link": "index.html",
+              "size": 119,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-2q",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extFooter1-2e",
+          "_params": {
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
         }
       ]
     },
@@ -1487,7 +1918,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         },
         {
           "_tags": [
@@ -1552,157 +1983,398 @@
           "text": "<p>Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ezt a tevékenységet a világ vezető légitársaságainak ügynökeként végezzük.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ennek eredményeként garantálni tudjuk, hogy a jegykiállítás napján, az adott&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">útvonalra, a legolcsóbb tarifán értékesítjük a repülőjegyeinket. Ezen felül vállaljuk - amennyiben erre kedves utasaink igényt tartanak -, hogy telepítünk repülő-, túlsúly- és differenciajegyeket külföldre, a légitársaság által előírt áron. Munkatársaink készséggel adnak ár- és járatinformációt több várost érintő repülőjegy-foglalás esetén, valamint segítséget nyújtunk a fapados járatokra való foglalásban is.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></span></p><p>A Go Global Travel (több mint 50.000 szálláshely – Európa, Észak- és Dél-Amerika, Ázsia) az AIC Travel Group (65.000 hotel világszerte) és a Hotelbeds Accommodation and Destinaton Services (2.500 hotel világszerte) nemzetközi szállásfoglaló rendszereken keresztül azonnal megtaláljuk az adott időpontban elérhető, legjobb, legolcsóbb és az igényeknek leginkább megfelelő szállásokat. Az egyszerű besorolású szálláshelyektől a luxusszállodákig különböző kategóriákban és különböző árfekvés mellett, egy alapvető minőségi szinthez ragaszkodva biztosítunk szálláslehetőségeket, kongresszusok, vásárok, kiállítások és kiemelt rendezvények ideje alatt is, az év bármely időszakában.</p><p>Egyéb szolgáltatások is előre lefoglalhatóak, amelyek elősegítik, hogy kikapcsolódása zökkenőmentesen teljen.</p><p><br></p><p><b>Transzfer</b></p><p>Utasaink részére mind Magyarországon, mind külföldön biztosítunk repülőtéri transzfereket. A megrendelő igényeinek megfelelően a taxitól a limuzin szervizen keresztül a turistabuszig bezárólag, minden kategóriában biztosítjuk ezen szolgáltatásunkat. Irodánk segítséget nyújt abban is, hogy pontos információt kapjon arról, hogy az adott repülőtérről hogyan érheti el a lehető legkedvezőbb áron és legrövidebb idő alatt (metró, vonat, busz) a választott szállodát.</p><p><br></p><p><b>Autóbérlés</b></p><p>Irodánk kapcsolatban áll a világ vezető, autóbérléssel foglalkozó cégeivel (Hertz, Budget), ezáltal biztosítva azt a lehetőséget, hogy az utas a számára legmegfelelőbb, különféle extrákkal felszerelt autótípust választhassa.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Biztosítás ügyintézés</b>&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Utasaink számára utasbiztosításokat kötünk (betegség-, baleset-, poggyászbiztosítás, útlemondási biztosítás). Cégünk az Európai Utazási Biztosítóval áll szerződésben.</span></p><p><br></p><p><b>Városnéző kirándulás</b></p><p>Külföldi partnereink segítségével módunkban áll ajánlani különböző városnéző kirándulásokat és egyéb eseményeken való (színház, opera, múzeum, kiállítás) részvételt.</p>"
         },
         {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-1l",
+          "_name": "extFeatures9",
+          "_styles": {
+            "H4": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extFeatures9-2r",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "numbersColor": "@primaryColor",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures4_bg.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "showTitle": false,
+            "showSubtitle": false,
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showIcons": false
           },
+          "title": "OUR TEAM",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x786.jpg",
-              "link": "Nyaralások.html",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number1": "01",
-          "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
-          "subtitle1": "<span style=\"font-style: normal;\">Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;</span>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title1": "<span style=\"font-weight: normal;\">Incentive</span>",
+          "subtitle1": "Programmer",
+          "caption1": " Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
           "media2": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x788.jpg",
+              "link": "Rendezvény.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
+          "subtitle2": "SEO",
+          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number2": "02",
-          "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
-          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
+          "title3": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
+          "subtitle3": "Manager",
+          "caption3": "Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.",
+          "media3_1": {
+            "iconFont": {
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x787.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
             }
           },
-          "number3": "03",
-          "title3": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
-          "subtitle3": "<span style=\"font-style: normal;\">Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;</span>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
           "media4": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x787.jpg",
+              "link": "Nyaralások.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<span style=\"font-weight: normal;\">Nyaralások</span>",
+          "subtitle4": "Reception",
+          "caption4": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! ",
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
               "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number4": "04",
-          "title4": "<span style=\"font-weight: normal;\">Outdoor</span>",
-          "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
+          "subtitle5": "Sales",
+          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Daniel Walker",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1728,7 +2400,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/15.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1741,7 +2413,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/26.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1754,7 +2426,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/37.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1767,7 +2439,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/48.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1780,7 +2452,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/59.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1793,7 +2465,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/37.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1805,7 +2477,7 @@
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1821,34 +2493,170 @@
             "visibleSlides": "5",
             "showArrows": true
           },
-          "_anchor": "extTestimonials5-o",
-          "title": "Partnereink",
+          "_anchor": "extTestimonials5-2s",
+          "title": "<span style=\"font-weight: normal;\">Partnereink</span>",
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
         {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm3",
+          "_anchor": "extForm3-38",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extForm1_bg.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": false,
+            "googleMap": {
+              "address": "H-1051 Budapest, Vigyázó F. u. 4.",
+              "placeId": "ChIJ8errvBXcQUcRquJG737HAfk",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "showTitle": false,
+            "showContacts": false,
+            "showIcons": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-white btn-white-outline\">KAPCSOLAT</a>"
+          },
+          "title": "<span style=\"font-weight: normal;\">Kapcsolat</span>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Kapcsolat</span>",
+          "subTitle1": "Ready for offers & cooperation",
+          "text1": "Phone: +1 (0) 000 0000 001 <br> Email: youremail@mail.com",
+          "form": {
+            "action": "kooltaip@gmail.com",
+            "alerts": {
+              "success": "Köszönjük az érdeklődését. Munkatársunk hamarosan jelentkezik."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Név*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Üzenet"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Küldje el üzenetét</a>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-1n",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-2t",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
           },
-          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>"
+          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extFooter1-2e",
+          "_params": {
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
         }
       ]
     },
@@ -1924,157 +2732,398 @@
           "text": "<p>Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ez köszönhető corporate ügyfeleink maximális bizalmának, akik az évek során az incentive és üzleti utak által megtapasztalt szervezés ismeretében egyre több, nagy volumenű céges rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a Wings Travel hírnevét.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A konferenciák és rendezvények megszervezése esetén is ugyanazon értékeket tartjuk szem előtt, mint incentive és üzleti útjaink során: a minőséget, a kreativitást, az újszerűséget és a rugalmasságot, a helyszínek kiválasztásakor a lehető legnagyobb körültekintést és előkészítést.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ezen irányelveknek köszönhetően ügyfélkörünk az évek során egyre bővült, és erre nagyon büszkék vagyunk.</span></p>"
         },
         {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-1m",
+          "_name": "extFeatures9",
+          "_styles": {
+            "H4": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extFeatures9-2u",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "numbersColor": "@primaryColor",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures4_bg.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "showTitle": false,
+            "showSubtitle": false,
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showIcons": false
           },
+          "title": "OUR TEAM",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x786.jpg",
-              "link": "Nyaralások.html",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number1": "01",
-          "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
-          "subtitle1": "<span style=\"font-style: normal;\">Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;</span>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title1": "<span style=\"font-weight: normal;\">Incentive</span>",
+          "subtitle1": "Programmer",
+          "caption1": " Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
           "media2": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-1400x788.jpg",
+              "link": "Rendezvény.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
+          "subtitle2": "SEO",
+          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
               "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number2": "02",
-          "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
-          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
+          "title3": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
+          "subtitle3": "Manager",
+          "caption3": "Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.",
+          "media3_1": {
+            "iconFont": {
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x787.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
             }
           },
-          "number3": "03",
-          "title3": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
-          "subtitle3": "<span style=\"font-style: normal;\">Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;</span>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
           "media4": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x787.jpg",
+              "link": "Nyaralások.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<span style=\"font-weight: normal;\">Nyaralások</span>",
+          "subtitle4": "Reception",
+          "caption4": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! ",
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
               "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
-          "number4": "04",
-          "title4": "<span style=\"font-weight: normal;\">Outdoor</span>",
-          "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
+          "subtitle5": "Sales",
+          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Daniel Walker",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2100,7 +3149,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/15.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2113,7 +3162,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/26.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2126,7 +3175,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/37.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2139,7 +3188,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/48.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2152,7 +3201,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/59.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2165,7 +3214,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/37.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2177,7 +3226,7 @@
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -2193,34 +3242,90 @@
             "visibleSlides": "5",
             "showArrows": true
           },
-          "_anchor": "extTestimonials5-v",
-          "title": "Partnereink",
+          "_anchor": "extTestimonials5-2v",
+          "title": "<span style=\"font-weight: normal;\">Partnereink</span>",
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
         },
         {
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-1n",
+          "_name": "extForm3",
+          "_anchor": "extForm3-3a",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
             "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extForm1_bg.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": false,
+            "googleMap": {
+              "address": "H-1051 Budapest, Vigyázó F. u. 4.",
+              "placeId": "ChIJ8errvBXcQUcRquJG737HAfk",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "showTitle": false,
+            "showContacts": false,
+            "showIcons": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-white btn-white-outline\">KAPCSOLAT</a>"
           },
-          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>"
+          "title": "<span style=\"font-weight: normal;\">Kapcsolat</span>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Kapcsolat</span>",
+          "subTitle1": "Ready for offers & cooperation",
+          "text1": "Phone: +1 (0) 000 0000 001 <br> Email: youremail@mail.com",
+          "form": {
+            "action": "kooltaip@gmail.com",
+            "alerts": {
+              "success": "Köszönjük az érdeklődését. Munkatársunk hamarosan jelentkezik."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Név*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Üzenet"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Küldje el üzenetét</a>"
         },
         {
           "_styles": {
@@ -2312,7 +3417,133 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-2w",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts1-1o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "link": "index.html",
+              "size": 119,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extFooter1-2e",
+          "_params": {
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
         }
       ]
     },
@@ -2552,7 +3783,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/magaslati-ktlplya-kalandtra-cges-csapatpts-1400x786.jpg",
+              "src": "@PROJECT_PATH@/assets/images/magaslati-ktlplya-kalandtra-cges-csapatpts-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2647,6 +3878,98 @@
             "bgColor": "#fff"
           },
           "text": "<p>Főbb célterületeink: Ausztria, Olaszország, Franciaország, Szlovénia, Szlovákia.&nbsp;</p><p><br></p><p>Szállását kívánságának megfelelő kategóriában lefoglaljuk (apartman, magánpanzió, szálloda), ezen kívül felnőtt ill. gyerek síbérletet, iskolák számára diákbérletet intézünk kedvezményes áron.&nbsp;</p><p><br></p><p>Cégünk szolgáltatása továbbá, hogy igény esetén magyar nyelvű síoktatót, síoktatókat is biztosít. Természetesen gondolunk azokra is, akik nem szeretnének síelni, így a számukra alternatív téli programokat ajánlunk (szánkózás, éjszakai fáklyás szánkózás, lovas szánozás, esti \"hütte\" program, kirándulás)&nbsp;</p><p><br></p><p>Igény esetén buszt biztosítunk (19, 32, 49 ill. 51 fős Scania Irizar luxusbuszok) a csoportok számára.&nbsp;</p><p><br></p><p>Tekintettel arra, hogy a sí egy veszélyes sport, mindenféleképpen ajánljuk a betegség-, baleset-, poggyászbiztosításunkat, amelyet irodánkban megköthet.&nbsp;</p><p><br></p><p>A teljesség igénye nélkül, íme néhány síterület Ausztriában:</p><p>· Murau</p><p>· Obertauern</p><p>· Lungau és térsége</p><p>· Bad Kleinkirchheim</p><p>· Mariazell</p><p>· Schladming</p><p>· Sölden</p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box5-1f\" data-toolbar=\"-mbrBtnMove\">Vissza</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Outdoor.html#msg-box5-1f\" data-toolbar=\"-mbrBtnMove\">Vissza a menühöz</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Iratkozzon fel!",
+          "form": {
+            "action": "kooltaip@gmail.com",
+            "alerts": {
+              "success": "Köszönjük a jelentkezést, kollégánk hamarosan megkeresi."
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "írja be az Email címét"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -2778,321 +4101,28 @@
           "text": "<p>Helyszín:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">szabadon választható</span></p><p><br></p><p>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni. A program tökéletes élményt és kihívást nyújt azon vendégek számára, akik a fizikai és mentális képességüket szeretnék fejleszteni, továbbá kiválóan alkalmas csapatépítésre és az alkalmazottak összekovácsolására is.&nbsp;</p><p><br></p><p>Kezdetben oktatóink egy előadást tartanak a mászópályáról, és bemutatják az akadályokat pontról pontra. Azon vendégek, akik úgy gondolják, hogy inkább kívülről szemlélik az eseményeket vagy éppen nem indultak még el a pályán, kifeszített sátrak alól, árnyékban követhetik figyelemmel a küzdő társaikat egy frissítő elfogyasztása mellett.</p><p><br></p><p>Célok:</p><p>leküzdeni a tériszony érzetét (már akinek van ilyen), javítani az egyensúlyérzéket, növelni az önbizalmat és a fizikai erőnlétet</p><p>Biztonság:</p><p>az akadályok leküzdésében szakképzett vezetőink segédkeznek, és minden ponton biztonsági felszereléseket alkalmazunk (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Időtartam:</p><p>kb. 2,5 - 3 óra</p><p>Ruházat:</p><p>szabadidőruha vagy ami nem gátolja a szabad mozgást, a lábbeli lapos talpú legyen, esetleg magas szárú bakancs</p><p>Felszerelés:</p><p>minden felszerelést mi biztosítunk a helyszínen (sisak, beülő heveder, karabiner, biztosító kötél)</p><p>Akadályok:</p><p>7-8 méteres magasságban kell végigtornászni az igazán összetett, kötelekből és fából készült pályán</p><p>&nbsp;</p>"
         },
         {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-1j",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "numbersColor": "@primaryColor",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures4_bg.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nyarals-vakci-1400x78611.jpg",
-              "link": "Nyaralások.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number1": "01",
-          "title1": "<span style=\"font-weight: normal;\">Nyaralások</span>",
-          "subtitle1": "<span style=\"font-style: normal;\">Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását!&nbsp;</span>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-1400x787.jpg",
-              "link": "Repülőjegy.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number2": "02",
-          "title2": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
-          "subtitle2": "<span style=\"font-style: normal;\">Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.</span>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-1400x78712.jpg",
-              "link": "Rendezvény.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number3": "03",
-          "title3": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
-          "subtitle3": "<span style=\"font-style: normal;\">Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége.&nbsp;</span>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x78713.jpg",
-              "link": "Outdoor.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number4": "04",
-          "title4": "<span style=\"font-weight: normal;\">Outdoor</span>",
-          "subtitle4": "<span style=\"font-style: normal;\">Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;</span>",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-2c",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "numbersColor": "@primaryColor",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/montepiana-highline-wahlhuetter-2-1-1400x787.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number1": "04",
-          "title1": "<span style=\"font-weight: normal;\">Incentive</span>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Inspire your group with the genius of Mozart at Four Seasons Hotel Prague. Take a backstage tour of the Estates Theatre, where Mozart’s “Don Giovanni” premiered in 1787. Visit the St. Nicholas Church, where he played the organ. ",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sels-1400x78713.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number2": "05",
-          "title2": "<span style=\"font-weight: normal;\">Outdoor</span>",
-          "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5; background-color: transparent;\">Inspire your group with the genius of Mozart at Four Seasons Hotel Prague. Take a backstage tour of the Estates Theatre, where Mozart’s “Don Giovanni” premiered in 1787. Visit the St. Nicholas Church, where he played the organ.&nbsp;</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_1.jpg"
-            },
-            "video": {
-              "active": false,
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number3": "03",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
-            },
-            "video": {
-              "active": false,
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number4": "04",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
           "_name": "extFeatures9",
-          "_anchor": "extFeatures9-2b",
+          "_styles": {
+            "H4": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extFeatures9-30",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/jumbotron.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3115,19 +4145,19 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jediah-polyester-highline-9-600x320.png",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">Outdor</span>",
+          "title1": "<span style=\"font-weight: normal;\">Incentive</span>",
           "subtitle1": "Programmer",
-          "caption1": "Inspire your group with the genius of Mozart at Four Seasons Hotel Prague. Take a backstage tour of the Estates Theatre, where Mozart’s “Don Giovanni” premiered in 1787. Visit the St. Nicholas Church, where he played the organ. ",
+          "caption1": " Irodánknak kezdettől fogva az a célja, hogy az utazásszervezésen túlmenően kiemelten fókuszáljon az incentive és üzleti utaztatásra, konferenciák és rendezvények szervezésére.",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -3174,19 +4204,19 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Rendezvény.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title2": "<span style=\"font-weight: normal;\">Incentive</span>",
+          "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
           "subtitle2": "SEO",
-          "caption2": "Inspire your group with the genius of Mozart at Four Seasons Hotel Prague. Take a backstage tour of the Estates Theatre, where Mozart’s “Don Giovanni” premiered in 1787. Visit the St. Nicholas Church, where he played the organ. ",
+          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -3233,19 +4263,19 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Repülőjegy.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title3": "<span style=\"font-weight: normal;\">Nyaralás</span>",
+          "title3": "<span style=\"font-weight: normal;\">Repülőjegy és szállásfoglalás</span>",
           "subtitle3": "Manager",
-          "caption3": "Inspire your group with the genius of Mozart at Four Seasons Hotel Prague. Take a backstage tour of the Estates Theatre, where Mozart’s “Don Giovanni” premiered in 1787. Visit the St. Nicholas Church, where he played the organ. ",
+          "caption3": "Foglalási rendszerünkön keresztül, a világ csaknem minden légitársaságának ajánlataiból tudjuk kiválasztani a lehető legkedvezőbb árfekvésű repülőjegyeket.",
           "media3_1": {
             "iconFont": {
               "active": true,
@@ -3292,19 +4322,19 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rafting-ausztria-cges-csapatpts-1-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Nyaralások.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title4": "<span style=\"font-weight: normal;\">renezvény</span>",
+          "title4": "<span style=\"font-weight: normal;\">Nyaralások</span>",
           "subtitle4": "Reception",
-          "caption4": "Inspire your group with the genius of Mozart at Four Seasons Hotel Prague. Take a backstage tour of the Estates Theatre, where Mozart’s “Don Giovanni” premiered in 1787. Visit the St. Nicholas Church, where he played the organ. ",
+          "caption4": "Válasszon egy helyet, és mi megszervezzük teljes körű nyaralását! ",
           "media4_1": {
             "iconFont": {
               "active": true,
@@ -3351,7 +4381,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3361,9 +4391,9 @@
               "linkInNewWindow": false
             }
           },
-          "title5": "<span style=\"font-weight: normal;\">valami</span>",
+          "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
           "subtitle5": "Sales",
-          "caption5": "CInspire your group with the genius of Mozart at Four Seasons Hotel Prague. Take a backstage tour of the Estates Theatre, where Mozart’s “Don Giovanni” premiered in 1787. Visit the St. Nicholas Church, where he played the organ. ",
+          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
           "media5_1": {
             "iconFont": {
               "active": true,
@@ -3410,7 +4440,7 @@
           },
           "media6": {
             "image": {
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/face4.png",
+              "src": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/face4.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -3462,18 +4492,6 @@
               "color": "#000",
               "family": "socicon"
             }
-          },
-          "_styles": {
-            "H4": {
-              "text-align": "center",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "text-align": "left"
-            }
           }
         },
         {
@@ -3500,7 +4518,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/15.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3513,7 +4531,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/26.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3526,7 +4544,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/37.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3539,7 +4557,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/48.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3552,7 +4570,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/59.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3565,7 +4583,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/37.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3577,7 +4595,7 @@
             ],
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/flight-mountains-sky-flying.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3593,24 +4611,108 @@
             "visibleSlides": "5",
             "showArrows": true
           },
-          "_anchor": "extTestimonials5-12",
-          "title": "Partnereink",
+          "_anchor": "extTestimonials5-31",
+          "title": "<span style=\"font-weight: normal;\">Partnereink</span>",
           "subtitle": "\"Büszkék vagyunk a munkánkra.\""
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm3",
+          "_anchor": "extForm3-3b",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/Pata/AppData/Local/Mobirise.com/Mobirise/projectData/img_extForm1_bg.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": false,
+            "googleMap": {
+              "address": "H-1051 Budapest, Vigyázó F. u. 4.",
+              "placeId": "ChIJ8errvBXcQUcRquJG737HAfk",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "showTitle": false,
+            "showContacts": false,
+            "showIcons": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-white btn-white-outline\">KAPCSOLAT</a>"
+          },
+          "title": "<span style=\"font-weight: normal;\">Kapcsolat</span>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Kapcsolat</span>",
+          "subTitle1": "Ready for offers & cooperation",
+          "text1": "Phone: +1 (0) 000 0000 001 <br> Email: youremail@mail.com",
+          "form": {
+            "action": "kooltaip@gmail.com",
+            "alerts": {
+              "success": "Köszönjük az érdeklődését. Munkatársunk hamarosan jelentkezik."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Név*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Üzenet"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Küldje el üzenetét</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
+          "_name": "contacts1",
           "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
             "P": {
-              "text-align": "right"
+              "font-size": "18px"
             }
           },
-          "_anchor": "footer1-1n",
+          "_anchor": "contacts1-1o",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3618,9 +4720,107 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#3C3C3C"
           },
-          "text": "WingsTravel&nbsp;H-1051 Budapest, Vigyázó F. u. 4. &nbsp;Tel.: +36 20 9431 899 &nbsp;E-mail: wingstravel@wingstravel.hu<br><br>"
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "link": "index.html",
+              "size": 119,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-32",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extFooter1-2e",
+          "_params": {
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
         },
         {
           "_styles": {
@@ -3712,7 +4912,224 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
+        }
+      ]
+    },
+    "Blog.html": {
+      "settings": {
+        "title": "Wingstravel Blog",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-3c",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "https://www.youtube.com/watch?v=RcmrbNRK-jY",
+            "facebook": "peter.koltai.77",
+            "twitter": "https://twitter.com/?lang=en",
+            "google": "https://plus.google.com/u/0/",
+            "postToLoad": 3,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts1-33",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "link": "index.html",
+              "size": 119,
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extFooter1-34",
+          "_params": {
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-35",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wings-440x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Incentive</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Rendezvény.html\" aria-expanded=\"false\">Rendezvények és konferenciák</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Repülőjegy.html\" aria-expanded=\"false\">Repülőjegy és szállásfoglalás</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nyaralások.html\">Nyaralások</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Outdoor.html\" aria-expanded=\"false\">Outdoor</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts3-4\">KAPCSOLAT</a></li>"
         }
       ]
     }
