@@ -24,7 +24,7 @@
       "email": "kooltaip@gmail.com"
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 121,
+    "uniqCompNum": 123,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -522,7 +522,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x256.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -535,7 +535,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/coca-cola-1-2677x2677.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -548,7 +548,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "src": "@PROJECT_PATH@/assets/images/yootheme-social-bookmark-social-facebook-button-blue-1-256x256.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -561,7 +561,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -574,7 +574,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/youtube-in-icon-256x256.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1140,7 +1140,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33710.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1199,7 +1199,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1258,7 +1258,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33712.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1317,7 +1317,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33713.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1376,7 +1376,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33714.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1513,7 +1513,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/15.png",
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1526,7 +1526,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/26.png",
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1539,7 +1539,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/37.png",
+                    "src": "@PROJECT_PATH@/assets/images/315.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1552,7 +1552,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/48.png",
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1565,7 +1565,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/59.png",
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1578,7 +1578,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/37.png",
+                    "src": "@PROJECT_PATH@/assets/images/315.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2027,7 +2027,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33710.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2086,7 +2086,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2145,7 +2145,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33712.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2204,7 +2204,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33713.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2263,7 +2263,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33714.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2400,7 +2400,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/15.png",
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2413,7 +2413,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/26.png",
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2426,7 +2426,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/37.png",
+                    "src": "@PROJECT_PATH@/assets/images/315.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2439,7 +2439,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/48.png",
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2452,7 +2452,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/59.png",
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2465,7 +2465,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/37.png",
+                    "src": "@PROJECT_PATH@/assets/images/315.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2776,7 +2776,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33710.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2835,7 +2835,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2894,7 +2894,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33712.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2953,7 +2953,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33713.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3012,7 +3012,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33714.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3149,7 +3149,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/15.png",
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3162,7 +3162,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/26.png",
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3175,7 +3175,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/37.png",
+                    "src": "@PROJECT_PATH@/assets/images/315.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3188,7 +3188,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/48.png",
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3201,7 +3201,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/59.png",
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3214,7 +3214,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/37.png",
+                    "src": "@PROJECT_PATH@/assets/images/315.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4145,7 +4145,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33710.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4204,7 +4204,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4263,7 +4263,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33712.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4322,7 +4322,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x3373.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33713.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4381,7 +4381,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33714.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4518,7 +4518,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/15.png",
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4531,7 +4531,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/26.png",
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4544,7 +4544,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/37.png",
+                    "src": "@PROJECT_PATH@/assets/images/315.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4557,7 +4557,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/48.png",
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4570,7 +4570,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/59.png",
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4583,7 +4583,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/37.png",
+                    "src": "@PROJECT_PATH@/assets/images/315.png",
                     "link": "",
                     "active": true,
                     "alt": "",
