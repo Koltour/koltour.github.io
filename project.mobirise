@@ -558,10 +558,10 @@
                 }
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-128x128.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x128.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -587,7 +587,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/yootheme-social-bookmark-social-facebook-button-blue-256x256.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x128.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -662,7 +662,7 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/youtube-in-icon-256x256.png",
@@ -1218,7 +1218,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33716.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33721.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1277,7 +1277,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33717.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33722.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1336,7 +1336,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33718.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33723.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1395,7 +1395,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33719.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33724.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1454,7 +1454,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33725.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2105,7 +2105,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33716.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33721.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2164,7 +2164,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33717.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33722.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2223,7 +2223,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33718.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33723.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2282,7 +2282,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33719.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33724.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2341,7 +2341,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33725.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2854,7 +2854,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33716.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33721.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2913,7 +2913,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33717.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33722.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2972,7 +2972,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33718.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33723.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3031,7 +3031,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33719.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33724.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3090,7 +3090,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33725.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4223,7 +4223,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33716.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive1-600x33721.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4282,7 +4282,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33717.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33722.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4341,7 +4341,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33718.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33723.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4400,7 +4400,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33719.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33724.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4459,7 +4459,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33725.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
