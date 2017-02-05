@@ -857,7 +857,7 @@ h6,
   color: #c0a375!important;
 }
 #header1-c .mbr-section-lead {
-  text-align: left;
+  text-align: center;
 }
 #header1-c .mbr-section-lead SPAN {
   text-align: left;
@@ -1090,6 +1090,13 @@ h6,
 }
 #msg-box5-1p P {
   text-align: right;
+}
+#header3-3p .mbr-section-title,
+#header3-3p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3p SPAN {
+  color: #ffffff;
 }
 #content1-15 P {
   text-align: left;

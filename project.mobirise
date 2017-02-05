@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "wings second",
-    "currentPage": "Outdoor.html",
+    "currentPage": "Nyaralások.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
       "email": "kooltaip@gmail.com"
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 132,
+    "uniqCompNum": 134,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -220,7 +220,7 @@
           },
           "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
           "subtitle2": "SEO",
-          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
+          "caption2": "A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti&nbsp;utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges&nbsp;rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a&nbsp;Wings Travel hírnevét.<br>",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -397,7 +397,7 @@
           },
           "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
           "subtitle5": "Sales",
-          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
+          "caption5": "Cégünk 1994. óta sikeresen szervez sí, rafting és kalandtúrákat valamint vitorlás programokat mind cégek, mind egyéni utasok számára. Ezen outdoor programok igen népszerűek partnereink körében. ",
           "media5_1": {
             "iconFont": {
               "active": true,
@@ -781,6 +781,12 @@
             "Extension"
           ],
           "_name": "extForm3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          },
           "_anchor": "extForm3-2g",
           "_params": {
             "paddingTop": "0",
@@ -854,13 +860,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Küldje el üzenetét</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff",
-              "font-size": "30px"
-            }
-          }
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Küldje el üzenetét</a>"
         },
         {
           "_tags": [
@@ -904,9 +904,9 @@
               "newWindow": false
             }
           },
-          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
-          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
-          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+          "text1": "Cím:<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt:<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": ""
         },
         {
           "_inherit": "social-buttons1",
@@ -940,7 +940,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+          "text": "<span style=\"font-weight: normal;\">Oszd meg az oldalt!</span>"
         },
         {
           "_styles": {
@@ -1082,7 +1082,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
-          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a>nciák<a href=\"Rendezvény.html\"></a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li><a href=\"Nyaralások.html\">Nyaralások</a></li><li><a href=\"Outdoor.html\">Outdoor</a></li></ul>"
         }
       ]
     },
@@ -1194,7 +1194,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-section-lead SPAN": {
               "text-align": "left"
@@ -1302,7 +1302,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x33744.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x337220.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1361,7 +1361,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33745.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x337221.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1373,7 +1373,7 @@
           },
           "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
           "subtitle2": "SEO",
-          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
+          "caption2": "A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a Wings Travel hírnevét. ",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -1420,7 +1420,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33746.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x337222.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1479,7 +1479,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33747.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x337223.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1538,7 +1538,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33748.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x337224.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1550,7 +1550,7 @@
           },
           "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
           "subtitle5": "Sales",
-          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
+          "caption5": "Cégünk 1994. óta sikeresen szervez sí, rafting és kalandtúrákat valamint vitorlás programokat mind cégek, mind egyéni utasok számára. Ezen outdoor programok igen népszerűek partnereink körében. ",
           "media5_1": {
             "iconFont": {
               "active": true,
@@ -1675,7 +1675,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12849.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x128225.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1688,7 +1688,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12850.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x128226.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1701,7 +1701,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25651.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x256227.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1714,7 +1714,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154228.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1727,7 +1727,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25653.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x256229.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1740,7 +1740,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22554.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x225230.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1753,7 +1753,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12555.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x125231.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1766,7 +1766,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14156.png",
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x141232.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1779,7 +1779,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58157.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x581233.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1792,7 +1792,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11258.png",
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x112234.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1805,7 +1805,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12559.png",
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x125235.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1818,7 +1818,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11260.png",
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x112236.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1831,7 +1831,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22561.png",
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x225237.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1844,7 +1844,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34762.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x347238.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1857,7 +1857,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25663.png",
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x256239.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1870,7 +1870,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20064.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x200240.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1883,7 +1883,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40065.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x400241.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1896,7 +1896,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154228.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2051,9 +2051,9 @@
               "newWindow": false
             }
           },
-          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
-          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
-          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+          "text1": "Cím:<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt:<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": ""
         },
         {
           "_inherit": "social-buttons1",
@@ -2087,7 +2087,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+          "text": "<span style=\"font-weight: normal;\">Oszd meg az oldalt!</span>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2133,7 +2133,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
-          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a>nciák<a href=\"Rendezvény.html\"></a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li><a href=\"Nyaralások.html\">Nyaralások</a></li><li><a href=\"Outdoor.html\">Outdoor</a></li></ul>"
         }
       ]
     },
@@ -2404,7 +2404,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33745.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x337221.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2416,7 +2416,7 @@
           },
           "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
           "subtitle2": "SEO",
-          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
+          "caption2": "A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a Wings Travel hírnevét. ",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -2463,7 +2463,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33746.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x337222.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2522,7 +2522,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33747.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x337223.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2581,7 +2581,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33748.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x337224.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2593,7 +2593,7 @@
           },
           "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
           "subtitle5": "Sales",
-          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
+          "caption5": "Cégünk 1994. óta sikeresen szervez sí, rafting és kalandtúrákat valamint vitorlás programokat mind cégek, mind egyéni utasok számára. Ezen outdoor programok igen népszerűek partnereink körében. ",
           "media5_1": {
             "iconFont": {
               "active": true,
@@ -2718,7 +2718,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12849.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x128225.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2731,7 +2731,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12850.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x128226.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2744,7 +2744,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25651.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x256227.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2757,7 +2757,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154228.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2770,7 +2770,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25653.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x256229.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2783,7 +2783,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22554.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x225230.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2796,7 +2796,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12555.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x125231.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2809,7 +2809,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14156.png",
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x141232.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2822,7 +2822,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58157.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x581233.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2835,7 +2835,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11258.png",
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x112234.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2848,7 +2848,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12559.png",
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x125235.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2861,7 +2861,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11260.png",
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x112236.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2874,7 +2874,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22561.png",
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x225237.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2887,7 +2887,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34762.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x347238.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2900,7 +2900,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25663.png",
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x256239.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2913,7 +2913,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20064.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x200240.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2926,7 +2926,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40065.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x400241.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2939,7 +2939,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154228.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3084,7 +3084,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+          "text": "<span style=\"font-weight: normal;\">Oszd meg az oldalt!</span>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -3130,7 +3130,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
-          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a>nciák<a href=\"Rendezvény.html\"></a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li><a href=\"Nyaralások.html\">Nyaralások</a></li><li><a href=\"Outdoor.html\">Outdoor</a></li></ul>"
         }
       ]
     },
@@ -3169,7 +3169,7 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span><br><span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
-          "text": "A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Wings Travel hírnevét.&nbsp;(kérlek&nbsp;</span><br><br><br>",
+          "text": "A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Wings Travel hírnevét.</span><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -3203,7 +3203,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wings Travel hírnevét.&nbsp;(kérlek et tedd fel a képhez)&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">A konferenciák és rendezvények megszervezése esetén is ugyanazon értékeket tartjuk szem</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">előtt, mint incentive és üzleti útjaink során: a minőséget, a kreativitást, az újszerűséget és a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rugalmasságot, a helyszínek kiválasztásakor a lehető legnagyobb körültekintést és&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">előkészítést.&nbsp;Ezen irányelveknek köszönhetően ügyfélkörünk az évek során egyre bővült, és&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">erre nagyon büszkék vagyunk.</span></p>"
+          "text": "<p>A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wings Travel hírnevét.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">A konferenciák és rendezvények megszervezése esetén is ugyanazon értékeket tartjuk szem</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">előtt, mint incentive és üzleti útjaink során: a minőséget, a kreativitást, az újszerűséget és a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">rugalmasságot, a helyszínek kiválasztásakor a lehető legnagyobb körültekintést és&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">előkészítést.&nbsp;Ezen irányelveknek köszönhetően ügyfélkörünk az évek során egyre bővült, és&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">erre nagyon büszkék vagyunk.</span></p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -3309,7 +3309,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33745.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x337221.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3321,7 +3321,7 @@
           },
           "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
           "subtitle2": "SEO",
-          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
+          "caption2": "A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a Wings Travel hírnevét. ",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -3368,7 +3368,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33746.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x337222.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3427,7 +3427,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33747.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x337223.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3486,7 +3486,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33748.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x337224.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3498,7 +3498,7 @@
           },
           "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
           "subtitle5": "Sales",
-          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
+          "caption5": "Cégünk 1994. óta sikeresen szervez sí, rafting és kalandtúrákat valamint vitorlás programokat mind cégek, mind egyéni utasok számára. Ezen outdoor programok igen népszerűek partnereink körében. ",
           "media5_1": {
             "iconFont": {
               "active": true,
@@ -3623,7 +3623,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12849.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x128225.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3636,7 +3636,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12850.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x128226.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3649,7 +3649,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25651.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x256227.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3662,7 +3662,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154228.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3675,7 +3675,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25653.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x256229.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3688,7 +3688,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22554.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x225230.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3701,7 +3701,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12555.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x125231.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3714,7 +3714,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14156.png",
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x141232.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3727,7 +3727,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58157.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x581233.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3740,7 +3740,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11258.png",
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x112234.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3753,7 +3753,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12559.png",
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x125235.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3766,7 +3766,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11260.png",
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x112236.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3779,7 +3779,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22561.png",
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x225237.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3792,7 +3792,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34762.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x347238.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3805,7 +3805,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25663.png",
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x256239.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3818,7 +3818,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20064.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x200240.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3831,7 +3831,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40065.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x400241.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3844,7 +3844,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154228.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4081,7 +4081,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+          "text": "<span style=\"font-weight: normal;\">Oszd meg az oldalt!</span>"
         },
         {
           "_tags": [
@@ -4125,9 +4125,9 @@
               "newWindow": false
             }
           },
-          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
-          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
-          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+          "text1": "Cím:<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt:<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": ""
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -4173,7 +4173,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
-          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a>nciák<a href=\"Rendezvény.html\"></a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li><a href=\"Nyaralások.html\">Nyaralások</a></li><li><a href=\"Outdoor.html\">Outdoor</a></li></ul>"
         }
       ]
     },
@@ -4266,7 +4266,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Síelés</span>",
           "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1r\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#content1-3o\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -4319,7 +4319,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Vitorlázás</span>",
           "text": "Cégünk kezelésében itthon több, a legmodernebb felszereléssel ellátott kajütös versenyhajó<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">áll.&nbsp;</span>A Wings Travel csapata, szakképzett kapitányok irányításával cégek és baráti társaságok<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">számára vitorlás programokat/túrákat szervez a Balatonon és az Adrián.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1w\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-2m\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -4372,7 +4372,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Rafting</span>",
           "text": "A Wings Travel Utazásszervező Kft. extrém sport szekciója elsősorban Ausztriába, a Steiermark szívében fekvő saját rafting-központjába szervezi vadvízi túráit, amely Budapesttől 460 km-re, a Mar völgyében található. Mindemellett a Salzára és a Socára is szervezi raftingtúráit. Kiegészítésként kanyoning, hydrospeed programokkal színesítjük ajánlatunkat. ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1s\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-3f\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -4433,7 +4433,43 @@
           },
           "title": "<span style=\"font-weight: normal;\">Magaslati kötélpálya &nbsp; &nbsp;</span>",
           "text": "<br>Szeretnénk bemutatni a Magyarországon elsőként kialakított 12 hidas, mobil magaslatikötélpálya-rendszerünket, amelyet az ország bármely pontján fel tudunk építeni.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1y\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-3g\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Programjaink</span>",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -4836,7 +4872,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33745.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x337221.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4848,7 +4884,7 @@
           },
           "title2": "<span style=\"font-weight: normal;\">Rendezvények és konferenciák</span>",
           "subtitle2": "SEO",
-          "caption2": "Az üzleti utaztatáson kívül cégünknek egyre több konferencia és rendezvény megszervezésére van lehetősége. ",
+          "caption2": "A corporate ügyfeleink maximális bizalmának és az évek során az incentive és üzleti utak által megtapasztalt szervezésnek köszönhetően egyre több, nagy volumenű céges rendezvény és konferencia megszervezésére kérik fel cégünket, ezáltal is öregbítve a Wings Travel hírnevét. ",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -4895,7 +4931,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33746.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x337222.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4954,7 +4990,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33747.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x337223.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5013,7 +5049,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33748.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x337224.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5025,7 +5061,7 @@
           },
           "title5": "<span style=\"font-weight: normal;\">Outdoor</span>",
           "subtitle5": "Sales",
-          "caption5": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében. ",
+          "caption5": "Cégünk 1994. óta sikeresen szervez sí, rafting és kalandtúrákat valamint vitorlás programokat&nbsp;mind cégek, mind egyéni utasok számára. Ezen outdoor programok igen népszerűek partnereink&nbsp;körében.<br>",
           "media5_1": {
             "iconFont": {
               "active": true,
@@ -5150,7 +5186,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12849.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x128225.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5163,7 +5199,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12850.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x128226.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5176,7 +5212,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25651.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x256227.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5189,7 +5225,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154228.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5202,7 +5238,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25653.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x256229.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5215,7 +5251,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22554.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x225230.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5228,7 +5264,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12555.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x125231.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5241,7 +5277,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14156.png",
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x141232.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5254,7 +5290,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58157.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x581233.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5267,7 +5303,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11258.png",
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x112234.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5280,7 +5316,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12559.png",
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x125235.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5293,7 +5329,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11260.png",
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x112236.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5306,7 +5342,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22561.png",
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x225237.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5319,7 +5355,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25663.png",
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x256239.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5332,7 +5368,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20064.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x200240.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5345,7 +5381,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40065.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x400241.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5358,7 +5394,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x154228.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5526,9 +5562,9 @@
               "newWindow": false
             }
           },
-          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
-          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
-          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+          "text1": "Cím:<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt:<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": ""
         },
         {
           "_inherit": "social-buttons1",
@@ -5562,7 +5598,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "<span style=\"font-weight: normal;\">Oszdd meg az oldalt!</span>"
+          "text": "<span style=\"font-weight: normal;\">Oszd meg az oldalt!</span>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -5608,7 +5644,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
-          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a>nciák<a href=\"Rendezvény.html\"></a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li><a href=\"Nyaralások.html\">Nyaralások</a></li><li><a href=\"Outdoor.html\">Outdoor</a></li></ul>"
         },
         {
           "_styles": {
@@ -5777,9 +5813,9 @@
               "newWindow": false
             }
           },
-          "text1": "CJM<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
-          "text2": "Kontakt<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
-          "text3": "<p>Linkek<br><a href=\"index.html\">I</a>ncentive<br><a href=\"Rendezvény.html\" class=\"text-white\">Konferenciák</a></p>"
+          "text1": "Cím:<br>H-1051 Budapest, Vigyázó F. u. 4.<br>Magyarország<br><br>",
+          "text2": "Kontakt:<br>E-mail: wingstravel@wingstravel.hu<br>Tel.: +36 20 9431 899<br><br><br>",
+          "text3": ""
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -5825,7 +5861,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Wingstravel</span>",
-          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li>Nyaralások</li><li>Outdoor</li></ul>"
+          "list": "<ul><li><a href=\"index.html\">Incentive</a></li><li><a href=\"Rendezvény.html\">Rendezvények és konfere</a>nciák<a href=\"Rendezvény.html\"></a><a href=\"http://\"></a></li><li><a href=\"Repülőjegy.html\">Repülőjegy és szállásfoglalás</a></li><li><a href=\"Nyaralások.html\">Nyaralások</a></li><li><a href=\"Outdoor.html\">Outdoor</a></li></ul>"
         },
         {
           "_styles": {
