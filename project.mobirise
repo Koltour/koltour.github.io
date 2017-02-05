@@ -1302,7 +1302,7 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x33722.jpg",
+              "src": "@PROJECT_PATH@/assets/images/incentive-2-600x33744.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1361,7 +1361,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33745.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1420,7 +1420,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33724.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33746.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1479,7 +1479,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33725.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33747.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1538,7 +1538,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33726.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33748.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1675,7 +1675,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12827.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12849.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1688,7 +1688,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12828.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12850.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1701,7 +1701,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25629.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25651.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1714,7 +1714,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15430.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1727,7 +1727,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25631.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25653.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1740,7 +1740,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22532.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22554.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1753,7 +1753,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12533.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12555.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1766,7 +1766,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14134.png",
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14156.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1779,7 +1779,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58135.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58157.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1792,7 +1792,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11236.png",
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11258.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1805,7 +1805,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12537.png",
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12559.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1818,7 +1818,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11238.png",
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11260.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1831,7 +1831,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22539.png",
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22561.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1844,7 +1844,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34740.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34762.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1857,7 +1857,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25641.png",
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25663.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1870,7 +1870,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20042.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20064.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1883,7 +1883,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40043.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40065.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -1896,7 +1896,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15430.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2404,7 +2404,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33745.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2463,7 +2463,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33724.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33746.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2522,7 +2522,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33725.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33747.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2581,7 +2581,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33726.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33748.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2718,7 +2718,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12827.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12849.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2731,7 +2731,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12828.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12850.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2744,7 +2744,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25629.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25651.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2757,7 +2757,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15430.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2770,7 +2770,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25631.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25653.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2783,7 +2783,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22532.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22554.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2796,7 +2796,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12533.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12555.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2809,7 +2809,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14134.png",
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14156.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2822,7 +2822,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58135.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58157.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2835,7 +2835,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11236.png",
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11258.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2848,7 +2848,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12537.png",
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12559.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2861,7 +2861,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11238.png",
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11260.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2874,7 +2874,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22539.png",
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22561.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2887,7 +2887,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34740.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34762.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2900,7 +2900,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25641.png",
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25663.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2913,7 +2913,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20042.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20064.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2926,7 +2926,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40043.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40065.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -2939,7 +2939,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15430.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3309,7 +3309,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33745.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3368,7 +3368,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33724.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33746.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3427,7 +3427,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33725.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33747.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3486,7 +3486,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33726.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33748.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3623,7 +3623,7 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12827.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12849.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3636,7 +3636,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12828.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12850.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3649,7 +3649,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25629.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25651.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3662,7 +3662,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15430.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3675,7 +3675,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25631.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25653.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3688,7 +3688,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22532.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22554.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3701,7 +3701,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12533.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12555.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3714,7 +3714,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14134.png",
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14156.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3727,7 +3727,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58135.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58157.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3740,7 +3740,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11236.png",
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11258.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3753,7 +3753,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12537.png",
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12559.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3766,7 +3766,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11238.png",
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11260.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3779,7 +3779,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22539.png",
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22561.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3792,7 +3792,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34740.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachig-2000x34762.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3805,7 +3805,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25641.png",
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25663.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3818,7 +3818,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20042.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20064.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3831,7 +3831,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40043.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40065.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -3844,7 +3844,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15430.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -4266,7 +4266,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Síelés</span>",
           "text": "Cégünk 1994. óta sikeresen szervez síutakat mind cégek, mind egyéni utasok számára. Ezen utak igen népszerűek partnereink körében.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#header3-1q\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Outdoor.html#msg-box1-1r\" data-toolbar=\"-mbrBtnMove\">Tudj meg többet</a>"
         },
         {
           "_tags": [
@@ -4836,7 +4836,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33723.jpg",
+              "src": "@PROJECT_PATH@/assets/images/konferencia-incentive-600x33745.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4895,7 +4895,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33724.jpg",
+              "src": "@PROJECT_PATH@/assets/images/repljegy-s-szllsfoglals-600x33746.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4954,7 +4954,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33725.png",
+              "src": "@PROJECT_PATH@/assets/images/nyarals-600x33747.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5013,7 +5013,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sels-600x33726.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sels-600x33748.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5150,7 +5150,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12827.png",
+                    "src": "@PROJECT_PATH@/assets/images/generali-icon-icons-1-128x12849.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5163,7 +5163,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12828.png",
+                    "src": "@PROJECT_PATH@/assets/images/ford-logogrey-128x12850.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5176,7 +5176,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25629.png",
+                    "src": "@PROJECT_PATH@/assets/images/bmw-logo-256-png-by-mahesh69a-d48akz6-1-256x25651.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5189,7 +5189,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15430.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5202,7 +5202,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25631.png",
+                    "src": "@PROJECT_PATH@/assets/images/coloplastg-256x25653.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5215,7 +5215,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22532.png",
+                    "src": "@PROJECT_PATH@/assets/images/hpg-225x22554.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5228,7 +5228,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12533.png",
+                    "src": "@PROJECT_PATH@/assets/images/paul-hartmann-logo-webg-225x12555.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5241,7 +5241,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14134.png",
+                    "src": "@PROJECT_PATH@/assets/images/nxp1g-356x14156.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5254,7 +5254,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58135.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-leaseplan-1600x58157.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5267,7 +5267,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11236.png",
+                    "src": "@PROJECT_PATH@/assets/images/makitas-393x11258.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5280,7 +5280,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12537.png",
+                    "src": "@PROJECT_PATH@/assets/images/liberatusg-401x12559.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5293,7 +5293,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11238.png",
+                    "src": "@PROJECT_PATH@/assets/images/nokiag-320x11260.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5306,7 +5306,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22539.png",
+                    "src": "@PROJECT_PATH@/assets/images/raiffeiseng-225x22561.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5319,7 +5319,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25641.png",
+                    "src": "@PROJECT_PATH@/assets/images/client-chubbg-256x25663.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5332,7 +5332,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20042.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/erste-bank-logogrey-640x20064.jpg",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5345,7 +5345,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40043.png",
+                    "src": "@PROJECT_PATH@/assets/images/hitachi1-400x40065.png",
                     "link": "",
                     "active": true,
                     "alt": "",
@@ -5358,7 +5358,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15430.png",
+                    "src": "@PROJECT_PATH@/assets/images/logo-allianz-227x15452.png",
                     "link": "",
                     "active": true,
                     "alt": "",
