@@ -711,6 +711,10 @@ h6,
 #extTestimonials5-9 .mbr-section-title {
   color: #ffffff;
 }
+#extForm3-2g SPAN {
+  color: #ffffff;
+  font-size: 30px;
+}
 #contacts1-1o STRONG {
   color: #ffffff;
 }
@@ -1086,16 +1090,6 @@ h6,
 }
 #msg-box5-1p P {
   text-align: right;
-}
-#header3-1q .mbr-section-title,
-#header3-1q .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1q H3 {
-  text-align: right;
-}
-#header3-1q SPAN {
-  text-align: left;
 }
 #content1-15 P {
   text-align: left;
