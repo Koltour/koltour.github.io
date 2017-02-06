@@ -721,11 +721,11 @@ h6,
 #contacts1-1o P {
   font-size: 18px;
 }
-#social-buttons3-2f .mbr-section-title,
-#social-buttons3-2f .btn-social {
+#social-buttons3-3w .mbr-section-title,
+#social-buttons3-3w .btn-social {
   color: #fff;
 }
-#social-buttons3-2f .mbr-section-title SPAN {
+#social-buttons3-3w .mbr-section-title SPAN {
   font-size: 30px;
 }
 #menu-5 .hide-buttons .nav-btn {
@@ -860,7 +860,10 @@ h6,
   text-align: center;
 }
 #header1-c .mbr-section-lead SPAN {
-  text-align: left;
+  text-align: center;
+}
+#header1-c .mbr-section-title SPAN {
+  text-align: center;
 }
 #header3-21 .mbr-section-title,
 #header3-21 .mbr-section-subtitle {
@@ -885,13 +888,6 @@ h6,
 }
 #contacts1-1o P {
   font-size: 18px;
-}
-#social-buttons3-2q .mbr-section-title,
-#social-buttons3-2q .btn-social {
-  color: #fff;
-}
-#social-buttons3-2q .mbr-section-title SPAN {
-  font-size: 30px;
 }
 #extFooter1-2e UL {
   color: #ffffff;
@@ -983,13 +979,6 @@ h6,
 #contacts1-33 P {
   font-size: 18px;
 }
-#social-buttons3-2t .mbr-section-title,
-#social-buttons3-2t .btn-social {
-  color: #fff;
-}
-#social-buttons3-2t .mbr-section-title SPAN {
-  font-size: 30px;
-}
 #extFooter1-2e UL {
   color: #ffffff;
 }
@@ -1074,13 +1063,6 @@ h6,
 #menu-13 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#social-buttons3-2w .mbr-section-title,
-#social-buttons3-2w .btn-social {
-  color: #fff;
-}
-#social-buttons3-2w .mbr-section-title SPAN {
-  font-size: 30px;
-}
 #contacts1-1o STRONG {
   color: #ffffff;
 }
@@ -1126,13 +1108,6 @@ h6,
 }
 #contacts1-1o P {
   font-size: 18px;
-}
-#social-buttons3-32 .mbr-section-title,
-#social-buttons3-32 .btn-social {
-  color: #fff;
-}
-#social-buttons3-32 .mbr-section-title SPAN {
-  font-size: 30px;
 }
 #extFooter1-2e UL {
   color: #ffffff;
